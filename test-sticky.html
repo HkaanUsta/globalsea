@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sticky Test</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+      height: 100vh;
+      overflow-y: scroll;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+    }
+
+    .section {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 3rem;
+      font-weight: bold;
+      color: white;
+    }
+
+    .section:nth-of-type(1) {
+      background: #FF6B6B;
+      z-index: 10;
+    }
+    .section:nth-of-type(2) {
+      background: #4ECDC4;
+      z-index: 20;
+    }
+    .section:nth-of-type(3) {
+      background: #45B7D1;
+      z-index: 30;
+    }
+    .section:nth-of-type(4) {
+      background: #FFA07A;
+      z-index: 40;
+    }
+    .section:nth-of-type(5) {
+      background: #98D8C8;
+      z-index: 50;
+    }
+  </style>
+</head>
+<body>
+  <div class="section">Section 1</div>
+  <div class="section">Section 2</div>
+  <div class="section">Section 3</div>
+  <div class="section">Section 4</div>
+  <div class="section">Section 5</div>
+</body>
+</html>

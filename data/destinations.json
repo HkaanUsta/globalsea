@@ -1,0 +1,724 @@
+{
+  "destinations": [
+    {
+      "id": "st-vincent-grenadines",
+      "slug": "st-vincent-grenadines",
+      "name": {
+        "en": "St. Vincent & The Grenadines",
+        "pl": "Saint Vincent i Grenadyny"
+      },
+      "featured": false,
+      "image": "/images/destinations/st-vincent-grenadines-1.jpg",
+      "thumbnail": "/images/destinations/stbilmemne.jpg",
+      "description": {
+        "en": "Comprising over 30 islands and cays, of which only nine are inhabited, St. Vincent and the Grenadines earn their title as the 'Jewels of the Caribbean'. With most of this expansive archipelago reachable only by boat, it's an ideal spot for a tranquil yacht charter in complete seclusion.\n\nShort sailing distances allow easy exploration of rainforests, white sand beaches, lively ports, and laid-back reggae spots. Countless private anchorages, opportunities for snorkeling among marine life, and thrilling wreck dives enhance the allure of the Grenadines. Take a hike along lush trails to bathe beneath cascading waterfalls, where the scenery and wildlife are so stunning that no photograph can truly capture their raw beauty.\n\nWith numerous breathtaking sailing areas and islands adorned with reefs to discover, the most valuable asset to pack for a superyacht charter in the Grenadines is time. Each island exudes its own unique charm and relaxed vibe. Don't miss Bequia, known for its secluded Margaret Beach, Hegg Turtle Sanctuary, and vibrant Music Fest in January. Head to the tranquil Canouan Island in the southwest for ultimate relaxation, or explore the coral reefs of Tobago Cays Marine Park for remarkable underwater adventures.",
+        "pl": "Składające się z ponad 30 wysp i wysepek, z których tylko dziewięć jest zamieszkanych, Saint Vincent i Grenadyny zasługują na miano 'Klejnotów Karaibów'. Ponieważ większość tego rozległego archipelagu jest dostępna tylko łodzią, jest to idealne miejsce na spokojny czarter jachtu w całkowitym odosobnieniu.\n\nKrótkie odległości żeglarskie umożliwiają łatwe odkrywanie lasów deszczowych, plaż z białym piaskiem, tętniących życiem portów i wyluzowanych miejsc z reggae. Niezliczone prywatne kotwicowiska, możliwości snorkelingu wśród życia morskiego i ekscytujące nurkowania we wraki zwiększają urok Grenadyn. Wybierz się na wędrówkę bujnymi szlakami, aby wykąpać się pod kaskadowymi wodospadami, gdzie sceneria i dzika przyroda są tak oszałamiające, że żadne zdjęcie nie jest w stanie w pełni oddać ich surowego piękna.\n\nMając do odkrycia liczne zapierające dech w piersiach obszary żeglarskie i wyspy ozdobione rafami, najcenniejszym atutem, jaki warto spakować na czarter superjachtu na Grenadynach, jest czas. Każda wyspa emanuje własnym, niepowtarzalnym urokiem i zrelaksowaną atmosferą. Nie przegap Bequia, znanej z zacisznej plaży Margaret, Sanktuarium Żółwi Hegg i tętniącego życiem Festiwalu Muzycznego w styczniu. Udaj się na spokojną wyspę Canouan na południowym zachodzie, aby zaznać najwyższego relaksu, lub odkryj rafy koralowe Parku Morskiego Tobago Cays, aby przeżyć niezwykłe podwodne przygody."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/st-vincent-grenadines-1.jpg"
+      ]
+    },
+    {
+      "id": "bahamas",
+      "slug": "bahamas",
+      "name": {
+        "en": "The Bahamas",
+        "pl": "Bahamy"
+      },
+      "featured": true,
+      "image": "/images/destinations/bahamas-1.jpg",
+      "thumbnail": "/images/destinations/bahamas.jpg",
+      "description": {
+        "en": "Sail leisurely across crystal-clear waters to soft sandy beaches, where you can snorkel alongside turtles, have a beach picnic, or savor a sundowner on your yacht at sunset. Whether you crave adventure, pure relaxation, or something in between, The Bahamas offers it all.\n\nFor kiteboarding and excellent diving, head to The Exumas, or experience the laid-back vibe at Eleuthera's harborfront. Nassau promises pirate tales, while food lovers shouldn't miss Smiths Point in Grand Bahama for traditional 'Fry Fish' on the beach every Wednesday night.\n\nThe vibrant underwater world of this coral-based paradise beckons with incredible opportunities for diving and snorkeling, among other water activities. Whether you're delving into the depths or savoring fresh seafood at a local beach cafe, the allure of these islands will captivate you. History buffs, party animals, and those seeking ultimate relaxation will all find their paradise here. Life simply feels better when you're on island time.",
+        "pl": "Żegluj niespiesznie po krystalicznie czystych wodach do plaż z miękkim piaskiem, gdzie możesz nurkować z rurką obok żółwi, urządzić piknik na plaży lub delektować się drinkiem o zachodzie słońca na swoim jachcie. Niezależnie od tego, czy pragniesz przygody, czystego relaksu, czy czegoś pomiędzy, Bahamy oferują to wszystko.\n\nAby uprawiać kitesurfing i doskonałe nurkowanie, udaj się na Exumas lub poczuj wyluzowaną atmosferę na nabrzeżu Eleuthery. Nassau obiecuje pirackie opowieści, a miłośnicy jedzenia nie powinni przegapić Smiths Point na Wielkiej Bahamie, gdzie w każdą środę wieczorem odbywa się tradycyjne smażenie ryb na plaży.\n\nTętniący życiem podwodny świat tego koralowego raju kusi niesamowitymi możliwościami nurkowania i snorkelingu oraz innych sportów wodnych. Niezależnie od tego, czy zanurzasz się w głębinach, czy delektujesz się świeżymi owocami morza w lokalnej kawiarni na plaży, urok tych wysp Cię oczaruje. Miłośnicy historii, imprezowicze i ci, którzy szukają ostatecznego relaksu, znajdą tu swój raj. Życie po prostu wydaje się lepsze, gdy płynie w wyspiarskim tempie."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/bahamas-1.jpg",
+        "/images/destinations/bahamas-2.jpg",
+        "/images/destinations/bahamas-3.jpg",
+        "/images/destinations/bahamas-4.jpg"
+      ]
+    },
+    {
+      "id": "leeward-islands",
+      "slug": "leeward-islands",
+      "name": {
+        "en": "The Leeward Islands",
+        "pl": "Wyspy Podwietrzne"
+      },
+      "featured": true,
+      "image": "/images/destinations/leeward-islands-1.jpg",
+      "thumbnail": "/images/destinations/leeward.jpg",
+      "description": {
+        "en": "The Leeward Islands are a haven for water sports enthusiasts, offering perfect conditions for windsurfing, kiteboarding, deep-sea fishing, and scuba diving. Dive into vibrant coral reefs and explore wrecks while soaking up the sun in secluded bays or swimming in the crystal-clear Caribbean Sea.\n\nIndulge in diverse dining options, from beachside shacks to Michelin-starred restaurants, where fresh seafood and tropical fruits shine. Experience lively nightlife at beach bars, clubs, and casinos, blending African, European, and Caribbean influences into local cuisine.\n\nWith outstanding natural beauty and rich history, each island in the Leeward chain offers a unique Caribbean experience. Explore in style aboard a luxury motor yacht or elegant sailing boat, immersing yourself in the allure of this paradisiacal destination.",
+        "pl": "Wyspy Podwietrzne to raj dla entuzjastów sportów wodnych, oferujący idealne warunki do windsurfingu, kitesurfingu, wędkarstwa dalekomorskiego i nurkowania z akwalungiem. Zanurz się w tętniących życiem rafach koralowych i eksploruj wraki, chłonąc słońce w zacisznych zatokach lub pływając w krystalicznie czystym Morzu Karaibskim.\n\nRozkoszuj się różnorodnymi opcjami gastronomicznymi, od plażowych budek po restauracje wyróżnione gwiazdkami Michelin, gdzie królują świeże owoce morza i tropikalne owoce. Doświadcz tętniącego życiem życia nocnego w barach na plaży, klubach i kasynach, łączących wpływy afrykańskie, europejskie i karaibskie w lokalnej kuchni.\n\nDzięki wyjątkowemu pięknu naturalnemu i bogatej historii każda wyspa w łańcuchu Wysp Podwietrznych oferuje unikalne karaibskie doświadczenie. Zwiedzaj w dobrym stylu na pokładzie luksusowego jachtu motorowego lub eleganckiej łodzi żaglowej, zanurzając się w uroku tego rajskiego miejsca."
+      },
+      "subDestinations": [
+        {
+          "id": "antigua",
+          "slug": "antigua",
+          "name": {
+            "en": "Antigua",
+            "pl": "Antigua"
+          },
+          "image": "/images/destinations/antigua-1.jpg",
+          "description": {
+            "en": "Explore Antigua's 365 beaches and sail into the iconic English Harbour to uncover its rich British heritage. Discover the UNESCO-protected Nelson's Dockyard, the oldest Georgian harbor still in use, and the heart of Antigua's annual Sailing Week. With its blend of maritime history and stunning beaches, Antigua stands out as a top destination in the Caribbean.",
+            "pl": "Odkryj 365 plaż Antigui i wpłyń do kultowego English Harbour, aby poznać jego bogate brytyjskie dziedzictwo. Zobacz chronioną przez UNESCO Stocznię Nelsona (Nelson's Dockyard), najstarszy wciąż używany port georgiański i serce corocznego Tygodnia Żeglarskiego na Antigui. Dzięki połączeniu historii morskiej i wspaniałych plaż Antigua wyróżnia się jako topowa destynacja na Karaibach."
+          }
+        },
+        {
+          "id": "saba",
+          "slug": "saba",
+          "name": {
+            "en": "Saba",
+            "pl": "Saba"
+          },
+          "image": "/images/destinations/saba-1.jpg",
+          "description": {
+            "en": "No journey through the Leeward Islands would be complete without a visit to the charming island of Saba. Nestled to the northwest, Saba's dramatic cliffs and volcanic peaks form a breathtaking backdrop against the Caribbean Sea, offering a picturesque cruise. Though lacking in beaches, the island is renowned for its exceptional diving and snorkeling experiences. Venture inland to discover the vibrant rainforest bursting with wildlife, or take a leisurely stroll through the serene capital, aptly named The Bottom.",
+            "pl": "Żadna podróż przez Wyspy Podwietrzne nie byłaby kompletna bez wizyty na uroczej wyspie Saba. Położone na północnym zachodzie dramatyczne klify i wulkaniczne szczyty Saby tworzą zapierające dech w piersiach tło na tle Morza Karaibskiego, oferując malowniczy rejs. Choć brakuje tu plaż, wyspa słynie z wyjątkowych doświadczeń związanych z nurkowaniem i snorkelingiem. Wybierz się w głąb lądu, aby odkryć tętniący życiem las deszczowy pełen dzikiej przyrody lub wybierz się na spokojny spacer po spokojnej stolicy, trafnie nazwanej The Bottom."
+          }
+        },
+        {
+          "id": "st-eustatius",
+          "slug": "st-eustatius",
+          "name": {
+            "en": "St. Eustatius",
+            "pl": "Sint Eustatius"
+          },
+          "image": "/images/destinations/st-eustatius-1.jpg",
+          "description": {
+            "en": "Close by lies St. Eustatius, affectionately known as 'Statia', a hidden gem waiting to be discovered. Its charming capital, Oranjestad, and intriguing yet poignant history, ranging from pirates to the slave trade, offer precious opportunities for yacht charter guests to explore these lesser-known Caribbean treasures.",
+            "pl": "W pobliżu leży St. Eustatius, czule nazywana 'Statia', ukryty klejnot czekający na odkrycie. Jej urocza stolica, Oranjestad, oraz intrygująca, a zarazem przejmująca historia, od piratów po handel niewolnikami, oferują gościom czarterującym jachty cenne możliwości poznania tych mniej znanych karaibskich skarbów."
+          }
+        },
+        {
+          "id": "st-maarten",
+          "slug": "st-maarten",
+          "name": {
+            "en": "St. Maarten",
+            "pl": "Sint Maarten"
+          },
+          "image": "/images/destinations/st-maarten-1.jpg",
+          "description": {
+            "en": "The vibrant island of St. Maarten offers a cosmopolitan atmosphere that's not to be missed on a Leeward Islands yacht charter. Split into French and Dutch territories, St. Maarten's Dutch side brims with lively nightlife, featuring casinos and nightclubs. Meanwhile, the French side offers gourmet dining experiences and leisurely days with French-inspired cuisine. The island's cultural blend mirrors its diverse landscapes, where European-style cafes and stylish boutiques adorn Caribbean beaches. For the adventurous, guided excursions lead to the 424m-high Paradise Peak or thrilling zip-line rides over mango plantations.",
+            "pl": "Tętniąca życiem wyspa Sint Maarten oferuje kosmopolityczną atmosferę, której nie można przegapić podczas czarteru jachtu na Wyspach Podwietrznych. Podzielona na terytoria francuskie i holenderskie, holenderska strona Sint Maarten tętni życiem nocnym, oferując kasyna i kluby nocne. Tymczasem strona francuska oferuje wykwintne doznania kulinarne i spokojne dni z kuchnią inspirowaną Francją. Mieszanka kulturowa wyspy odzwierciedla jej różnorodne krajobrazy, gdzie kawiarnie w europejskim stylu i stylowe butiki zdobią karaibskie plaże. Dla żądnych przygód przewodnicy oferują wycieczki na wysoki na 424 m szczyt Pic Paradis lub ekscytujące zjazdy tyrolką nad plantacjami mango."
+          }
+        },
+        {
+          "id": "st-thomas",
+          "slug": "st-thomas",
+          "name": {
+            "en": "St. Thomas",
+            "pl": "Saint Thomas"
+          },
+          "image": "/images/destinations/st-thomas-1.jpg",
+          "description": {
+            "en": "As you step ashore on St. Thomas, prepare to immerse yourself in the vibrant and refined atmosphere of one of the Caribbean's most captivating islands. Here, a lively party scene awaits, with an abundance of bars, clubs, and restaurants to suit every taste and mood. For those inclined towards a spot of retail therapy, the island's tax-free shopping opportunities are simply irresistible.\n\nYet, St. Thomas offers more than just revelry and shopping. Its history is as rich as it is fascinating, tracing back to the era of pirates and colonial sugar plantations. Delve into the island's past with visits to historical sites and museums, providing intriguing insights into St. Thomas's captivating history.",
+            "pl": "Schodząc na ląd na Saint Thomas, przygotuj się na zanurzenie w tętniącej życiem i wyrafinowanej atmosferze jednej z najbardziej urzekających wysp Karaibów. Czeka tu na Ciebie tętniąca życiem scena imprezowa z mnóstwem barów, klubów i restauracji, które zaspokoją każdy gust i nastrój. Dla tych, którzy mają ochotę na zakupy, możliwości zakupów bezcłowych na wyspie są po prostu nie do odparcia.\n\nJednak Saint Thomas oferuje coś więcej niż tylko zabawę i zakupy. Jego historia jest równie bogata, co fascynująca, sięgająca ery piratów i kolonialnych plantacji cukru. Zagłęb się w przeszłość wyspy, odwiedzając miejsca historyczne i muzea, które zapewniają intrygujący wgląd w urzekającą historię Saint Thomas."
+          }
+        },
+        {
+          "id": "anguilla",
+          "slug": "anguilla",
+          "name": {
+            "en": "Anguilla",
+            "pl": "Anguilla"
+          },
+          "image": "/images/destinations/anguilla-1.jpg",
+          "description": {
+            "en": "Anguilla, a British Overseas Territory, beckons to be explored during your Leeward Islands yacht charter. The island has meticulously preserved its natural beauty, boasting some of the finest beaches globally, while also offering luxurious retreats and a plethora of activities for superyacht charter guests to relish.\n\nCruising along Anguilla's serene coastline, one can bask in the splendor of the crystal-clear waters and catch glimpses of the native red-billed tropicbirds soaring overhead. Beneath the waves, Anguilla reveals its rich wildlife and impressive wrecks and coral reefs, providing endless opportunities for yacht enthusiasts. Join the local islanders for a lively dance to live reggae music on the powdery sands of Shoal Bay or partake in one of Anguilla's renowned regattas.\n\nBeyond its pristine beaches, Anguilla invites exploration of its rugged landscapes, while golf aficionados will delight in the golf course designed by legendary golfer Greg Norman. Embark on a day trip to Prickly Pear Cays, an idyllic island just off Anguilla's western coast, or venture to the protected areas of Big Spring Cave, adorned with prehistoric petroglyphs, or East End Pond, a sanctuary for wildlife conservation.\n\nWith its untouched allure and laid-back ambiance, Anguilla epitomizes the casual yet refined elegance sought by discerning travellers. Whether you're savouring a rum punch while admiring the famed Shoal Bay sunset or indulging in the island's myriad charms, Anguilla promises to captivate your senses. Furthermore, with the development of a superyacht marina, Anguilla is swiftly becoming a preferred destination among the yachting community.",
+            "pl": "Anguilla, Terytorium Zamorskie Wielkiej Brytanii, aż prosi się o odkrycie podczas czarteru jachtu na Wyspach Podwietrznych. Wyspa pieczołowicie zachowała swoje naturalne piękno, szczycąc się jednymi z najlepszych plaż na świecie, jednocześnie oferując luksusowe miejsca wypoczynku i mnóstwo atrakcji dla gości superjachtów.\n\nRejs wzdłuż spokojnego wybrzeża Anguilli pozwala wygrzewać się w blasku krystalicznie czystych wód i dostrzec rodzime faetony żółtodziobe szybujące nad głowami. Pod falami Anguilla odsłania bogatą faunę i imponujące wraki oraz rafy koralowe, zapewniając nieskończone możliwości dla entuzjastów jachtingu. Dołącz do lokalnych mieszkańców, aby zatańczyć przy muzyce reggae na żywo na piaszczystych piaskach Shoal Bay lub weź udział w jednych z renomowanych regat na Anguilli.\n\nPoza dziewiczymi plażami Anguilla zachęca do odkrywania surowych krajobrazów, a miłośnicy golfa będą zachwyceni polem golfowym zaprojektowanym przez legendarnego golfistę Grega Normana. Wybierz się na jednodniową wycieczkę na Prickly Pear Cays, idylliczną wyspę tuż u zachodnich wybrzeży Anguilli, lub udaj się do chronionych obszarów jaskini Big Spring, ozdobionej prehistorycznymi petroglifami, lub stawu East End, sanktuarium ochrony dzikiej przyrody.\n\nDzięki nienaruszonemu urokowi i wyluzowanej atmosferze Anguilla uosabia swobodną, a zarazem wyrafinowaną elegancję poszukiwaną przez wymagających podróżników. Niezależnie od tego, czy delektujesz się ponczem rumowym, podziwiając słynny zachód słońca w Shoal Bay, czy oddajesz się niezliczonym urokom wyspy, Anguilla obiecuje urzec Twoje zmysły. Ponadto, dzięki rozwojowi przystani dla superjachtów, Anguilla szybko staje się preferowanym miejscem wśród społeczności żeglarskiej."
+          }
+        },
+        {
+          "id": "virgin-gorda",
+          "slug": "virgin-gorda",
+          "name": {
+            "en": "Virgin Gorda",
+            "pl": "Virgin Gorda"
+          },
+          "image": "/images/destinations/virgin-gorda-1.jpg",
+          "description": {
+            "en": "Virgin Gorda beckons with its abundance of picturesque beaches, mesmerizing coral reefs, and renowned resorts.\n\nFor those yearning to explore the Caribbean in elegance and luxury, Virgin Gorda stands as an outstanding choice. Whether you crave ultimate relaxation or thrilling watersports, this island paradise offers it all.\n\nYet, Virgin Gorda's scenic allure transcends its breathtaking coral sand beaches. The island's interior hides treasures like the ruins of the Spanish fortress at Little Fort National Park and the natural wonders at Devil's Bay, North Sound, Spring Bay, and Gorda Peak National Parks. Moreover, Virgin Gorda boasts one of the world's top 10 wreck dive sites—the RMS Rhone—a must-visit for avid divers.",
+            "pl": "Virgin Gorda kusi mnóstwem malowniczych plaż, hipnotyzującymi rafami koralowymi i renomowanymi kurortami.\n\nDla tych, którzy pragną odkrywać Karaiby w elegancji i luksusie, Virgin Gorda jest doskonałym wyborem. Niezależnie od tego, czy pragniesz ostatecznego relaksu, czy ekscytujących sportów wodnych, ten wyspiarski raj oferuje to wszystko.\n\nJednak malowniczy urok Virgin Gorda wykracza poza zapierające dech w piersiach plaże z koralowym piaskiem. Wnętrze wyspy kryje skarby, takie jak ruiny hiszpańskiej fortecy w Parku Narodowym Little Fort oraz cuda natury w Parkach Narodowych Devil's Bay, North Sound, Spring Bay i Gorda Peak. Ponadto Virgin Gorda szczyci się jednym z 10 najlepszych miejsc do nurkowania we wraki na świecie – RMS Rhone – obowiązkowym punktem dla zapalonych nurków."
+          }
+        },
+        {
+          "id": "st-barts",
+          "slug": "st-barts",
+          "name": {
+            "en": "St. Barts",
+            "pl": "Saint-Barthélemy"
+          },
+          "image": "/images/destinations/st-barts-1.jpg",
+          "description": {
+            "en": "Sailing to St. Barts, the 'it' island adorned with red-tiled roofs, French cuisine, and upscale boutiques, promises the epitome of luxury. With all the expected amenities of exclusive resorts, including superb restaurants and designer shops, this distinctive and elegant island exudes a South-of-France vibe against a tropical backdrop.",
+            "pl": "Żeglowanie na Saint-Barthélemy, wyspę 'na topie' ozdobioną czerwonymi dachami, francuską kuchnią i ekskluzywnymi butikami, obiecuje uosobienie luksusu. Ze wszystkimi oczekiwanymi udogodnieniami ekskluzywnych kurortów, w tym znakomitymi restauracjami i sklepami znanych projektantów, ta wyróżniająca się i elegancka wyspa emanuje atmosferą południowej Francji na tropikalnym tle."
+          }
+        },
+        {
+          "id": "st-kitts",
+          "slug": "st-kitts",
+          "name": {
+            "en": "St. Kitts",
+            "pl": "Saint Kitts"
+          },
+          "image": "/images/destinations/st-kitts-1.jpg",
+          "description": {
+            "en": "Just a short cruise south, dock at the fully serviced Christophe Harbour in St. Kitts. Positioned conveniently to the island's south, providing access to the capital, Basse Terre, and numerous historical sites. Upon arrival, venture ashore to explore rolling sugarcane fields, plantation remnants, and merchant houses, now transformed into boutique hotels offering a captivating glimpse into the island's colonial heritage.",
+            "pl": "Zaledwie krótki rejs na południe, zacumuj w w pełni obsługiwanym Christophe Harbour na Saint Kitts. Dogodnie położony na południu wyspy, zapewnia dostęp do stolicy, Basseterre, i licznych zabytków. Po przybyciu na miejsce zejdź na ląd, aby zwiedzić pofałdowane pola trzciny cukrowej, pozostałości plantacji i domy kupieckie, obecnie przekształcone w hotele butikowe oferujące urzekający wgląd w kolonialne dziedzictwo wyspy."
+          }
+        }
+      ],
+      "gallery": [
+        "/images/destinations/leeward-islands-1.jpg",
+        "/images/destinations/leeward-islands-2.jpg",
+        "/images/destinations/leeward-islands-3.jpg",
+        "/images/destinations/leeward-islands-4.jpg"
+      ]
+    },
+    {
+      "id": "crete",
+      "slug": "crete",
+      "name": {
+        "en": "Crete",
+        "pl": "Kreta"
+      },
+      "featured": false,
+      "image": "/images/destinations/crete-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "As an ancient port for ships traversing the globe, Crete has become a popular yachting destination, thanks to its breathtaking scenery, lively towns, and sandy beaches.\n\nWhen embarking on a yacht charter in Crete from the west, your first stop is Rethymnon, nestled between Chania and Heraklion. This bustling port boasts a vibrant restaurant scene that extends beyond the promenade, offering stunning sea views. Don't miss a visit to the historic monasteries of Preveli and Arkadi, as well as the Ideon Cave, where legend has it Zeus was raised.\n\nHeading east along the coast, you'll encounter the lively city of Heraklion. Bursting with color and energy, it's filled with trendy restaurants, upscale bars, and vibrant nightclubs. To avoid the summer crowds, consider chartering a yacht in May or October for cooler weather and better access to prime dining spots. Heraklion also serves as an excellent base for inland day trips, offering fantastic hiking routes to remote villages.\n\nContinuing eastward, you'll find the charming village of Elounda on the northern side of Mirabello Bay, one of Crete's many highlights. Known for its elegant resorts, upscale eateries, and exclusive bars, Elounda is a luxurious retreat. Its picturesque harbor, sheltered by the Kalydon peninsula, provides opportunities for kayaking, windsurfing, and paddleboarding. Just north of the harbor lies Spinalonga, a once formidable Venetian sea fortress now known for its shallow, crystal-clear waters.\n\nExplore the village's rich history, including well-preserved houses and churches, and don't miss the chance to visit the famous Minoan palace of Knossos, a testament to ancient Cretan civilization. For a glimpse of Crete's timeless beauty away from the tourist crowds, head south, where the island's untouched landscapes await.",
+        "pl": "Jako starożytny port dla statków przemierzających glob, Kreta stała się popularnym miejscem żeglarskim dzięki zapierającym dech w piersiach krajobrazom, tętniącym życiem miastom i piaszczystym plażom.\n\nRozpoczynając czarter jachtu na Krecie od zachodu, Twoim pierwszym przystankiem jest Retimno, położone między Chanią a Heraklionem. Ten tętniący życiem port szczyci się żywą sceną restauracyjną, która wykracza poza promenadę, oferując wspaniałe widoki na morze. Nie przegap wizyty w historycznych klasztorach Preveli i Arkadi, a także w Jaskini Idajskiej, gdzie według legendy wychowywał się Zeus.\n\nKierując się na wschód wzdłuż wybrzeża, napotkasz tętniące życiem miasto Heraklion. Pełne kolorów i energii, wypełnione jest modnymi restauracjami, ekskluzywnymi barami i tętniącymi życiem klubami nocnymi. Aby uniknąć letnich tłumów, rozważ czarter jachtu w maju lub październiku, aby cieszyć się chłodniejszą pogodą i lepszym dostępem do najlepszych miejsc gastronomicznych. Heraklion służy również jako doskonała baza wypadowa na jednodniowe wycieczki w głąb lądu, oferując fantastyczne szlaki turystyczne do odległych wiosek.\n\nKontynuując podróż na wschód, znajdziesz urokliwą wioskę Elounda po północnej stronie zatoki Mirabello, jedną z wielu atrakcji Krety. Znana z eleganckich kurortów, ekskluzywnych restauracji i barów, Elounda jest luksusowym miejscem wypoczynku. Jej malowniczy port, osłonięty półwyspem Kalydon, zapewnia możliwości pływania kajakiem, windsurfingu i paddleboardingu. Tuż na północ od portu leży Spinalonga, niegdyś potężna wenecka forteca morska, obecnie znana z płytkich, krystalicznie czystych wód.\n\nOdkryj bogatą historię wioski, w tym dobrze zachowane domy i kościoły, i nie przegap okazji, aby odwiedzić słynny pałac minojski w Knossos, świadectwo starożytnej cywilizacji kreteńskiej. Aby rzucić okiem na ponadczasowe piękno Krety z dala od turystycznych tłumów, udaj się na południe, gdzie czekają nienaruszone krajobrazy wyspy."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/crete-1.jpg",
+        "/images/destinations/crete-2.jpg",
+        "/images/destinations/crete-3.jpg",
+        "/images/destinations/crete-4.jpg"
+      ]
+    },
+    {
+      "id": "croatia",
+      "slug": "croatia",
+      "name": {
+        "en": "Croatia",
+        "pl": "Chorwacja"
+      },
+      "featured": true,
+      "image": "/images/destinations/croatia-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "# Croatia Yacht Charter Experience\n\nOnce considered the serene alternative to Italy, Croatia has now risen to prominence as one of the most coveted summer destinations for the yachting community. Shaped by Roman and Byzantine influences, Croatia stands at the crossroads of Eastern and Western cultures. Stretching along the eastern Adriatic Sea, it boasts over a thousand exquisite islands and a rugged coastline, perfect for yacht exploration.\n\nOne of the prime attractions of this captivating destination is the opportunity to savor Croatia's unique culinary offerings. Whether lounging on pristine beaches or delving into its rich history and culture, indulge in a cuisine that has swiftly gained acclaim across Europe.\n\nFrom freshly caught Adriatic seafood to the renowned Istrian truffles, Croatia's gastronomy embodies a harmonious blend of Mediterranean, Central European, and Balkan influences, mirroring the nation's diverse heritage and landscape.\n\nEmbark on a captivating journey from Venice to Porto Montenegro with a one-way charter, allowing you to savor the finest of Croatia's coastline. Alternatively, opt for a yacht rental starting and ending in Croatia, granting you ample time to delve into the region's rugged islets, secluded beaches, and enchanting cities at your leisure.\n\nWhether seeking adventure or tranquility, a yacht charter in Croatia promises an unparalleled exploration of this stunning locale.\n\nCroatia's cultural tapestry, shaped by the influences of the Roman and Ottoman Empires, enriches the journey with historical depth. Inland, discover exhilarating mountain peaks and crystalline lakes, while along the coast, immerse yourself in the vibrant culture of historic cities like Dubrovnik, Split, and Pula.\n\nThe country's culinary scene, rooted in hearty taverna-style cuisine, has recently embraced a wave of Michelin accolades, elevating dining experiences along the Adriatic coast.\n\nIndulge your sweet tooth with Croatia's array of delectable desserts, including the traditional Dalmatian **\"rožata\"**, a lemon and rosemary-infused custard. And don't miss the opportunity to sample Croatia's renowned wines, from the crisp whites of the Pelješac peninsula to the robust reds crafted from the **Plavac Mali** grape.\n\nWith a winemaking tradition spanning over 2,500 years, visitors can spend leisurely afternoons tasting and touring at family-owned vineyards dotted throughout the country. From its breathtaking landscapes to its rich cultural heritage and delectable cuisine, Croatia beckons luxury travelers to experience its unmatched splendor.\n\n---\n\n## Croatia's Finest Restaurants\n\nIndulge in culinary excellence at these top dining spots across Croatia:\n\n- **Restaurant 360° – Dubrovnik** \n Offers breathtaking views and a Michelin-starred menu curated by Chef Marijo Curi, showcasing the best of Croatian cuisine.\n\n- **Monte – Rovinj** \n The first Croatian restaurant with a Michelin star, presenting dishes crafted by Chef Danijel Eki using locally sourced ingredients that capture Istria's culinary heritage.\n\n- **Pelegrini – Šibenik** \n Innovative Dalmatian cuisine by Chef Rudi Stefan, set against the backdrop of the stunning St. James Cathedral.\n\n- **Noel – Zagreb** \n A contemporary European menu by Chef Goran Koji, promising a refined dining experience with a Croatian twist.\n\n- **Bokeria Kitchen & Wine Bar – Split** \n Provides a Mediterranean dining experience in a cosy setting, perfect for unwinding after a day of sailing on a yacht charter.\n\n---\n\n## Croatia's Top Beaches\n\n### Zlatni Rat – Brač Island\nZlatni Rat is a renowned pebble beach with a distinctive shape, offering stunning views of the Adriatic Sea. Perfect for water sports enthusiasts, it’s an ideal spot for windsurfing and jet skiing. After a day of adventure, head to Bol for vibrant nightlife.\n\n### Stiniva Beach – Vis Island\nHidden on Vis Island's southeastern coast, Stiniva Beach is a secluded cove with crystal-clear waters, surrounded by magnificent limestone cliffs. It's an exclusive destination perfect for relaxation and privacy.\n\n### Banje Beach – Dubrovnik\nLocated near Dubrovnik's city walls, Banje Beach offers a luxurious retreat with stunning views of the Old Town and Lokrum Island. Relax on the pristine sands or indulge in cocktails at the Banje Beach Club for the ultimate VIP experience.\n\n### Lubenice Beach – Cres Island\nAccessible only by boat or a challenging hike, Lubenice Beach is a secluded paradise ideal for snorkelling and swimming, surrounded by natural beauty and tranquillity.\n\n---\n\n## Croatia's Top Hotspots\n\n### Hvar – An Island Paradise\nHvar captivates luxury seekers with its stunning landscapes and lavish offerings. Drop anchor in its charming harbour, indulge in gourmet dining, and enjoy vibrant nightlife along the glamorous waterfront.\n\n### Vis – A Step Back in Time\nVis Island offers an authentic and secluded retreat immersed in Dalmatia's rich cultural heritage. Explore its history, mingle with locals, and visit the mesmerizing Blue Cave.\n\n### Dubrovnik – The Jewel of the Adriatic\nDubrovnik's ancient charm and breathtaking views make it a highlight of any luxury yacht charter. Wander its historic streets, visit landmarks like the Rector's Palace, and experience elite hospitality.\n\n### Split – Between Old and New\nSplit seamlessly blends ancient history with modern living. Explore Diocletian's Palace, stroll through Marjan Park, and experience the city's vibrant atmosphere.\n\n### Mljet National Park – A Natural Haven\nMljet National Park enchants with turquoise lakes and lush forests. Anchor in secluded coves, explore tranquil landscapes, and immerse yourself in pristine nature.",
+        "pl": "# Doświadczenie czarteru jachtu w Chorwacji\n\nNiegdyś uważana za spokojną alternatywę dla Włoch, Chorwacja zyskała teraz na znaczeniu jako jedno z najbardziej pożądanych letnich miejsc dla społeczności żeglarskiej. Ukształtowana przez wpływy rzymskie i bizantyjskie, Chorwacja stoi na skrzyżowaniu kultur Wschodu i Zachodu. Rozciągając się wzdłuż wschodniego Morza Adriatyckiego, szczyci się ponad tysiącem wspaniałych wysp i surowym wybrzeżem, idealnym do eksploracji jachtem.\n\nJedną z głównych atrakcji tego urzekającego miejsca jest możliwość skosztowania wyjątkowej oferty kulinarnej Chorwacji. Niezależnie od tego, czy wypoczywasz na dziewiczych plażach, czy zagłębiasz się w jej bogatą historię i kulturę, delektuj się kuchnią, która szybko zyskała uznanie w całej Europie.\n\nOd świeżo złowionych adriatyckich owoców morza po słynne istryjskie trufle, gastronomia Chorwacji ucieleśnia harmonijne połączenie wpływów śródziemnomorskich, środkowoeuropejskich i bałkańskich, odzwierciedlając różnorodne dziedzictwo i krajobraz narodu.\n\nWyrusz w fascynującą podróż z Wenecji do Porto Montenegro czarterem w jedną stronę, co pozwoli Ci delektować się tym, co najlepsze na chorwackim wybrzeżu. Alternatywnie wybierz wynajem jachtu rozpoczynający się i kończący w Chorwacji, co zapewni Ci wystarczająco dużo czasu na zagłębienie się w surowe wysepki regionu, zaciszne plaże i czarujące miasta we własnym tempie.\n\nNiezależnie od tego, czy szukasz przygody, czy spokoju, czarter jachtu w Chorwacji obiecuje niezrównaną eksplorację tego oszałamiającego miejsca.\n\nMozaika kulturowa Chorwacji, ukształtowana przez wpływy imperiów rzymskiego i osmańskiego, wzbogaca podróż o historyczną głębię. W głębi lądu odkryj ekscytujące szczyty górskie i krystaliczne jeziora, a wzdłuż wybrzeża zanurz się w tętniącej życiem kulturze historycznych miast, takich jak Dubrownik, Split i Pula.\n\nScena kulinarna kraju, zakorzeniona w obfitej kuchni w stylu tawerny, ostatnio przyjęła falę wyróżnień Michelin, podnosząc poziom doznań kulinarnych wzdłuż wybrzeża Adriatyku.\n\nZaspokój swój apetyt na słodycze szeroką gamą pysznych deserów Chorwacji, w tym tradycyjną dalmacką **\"rożatą\"**, kremem o smaku cytryny i rozmarynu. I nie przegap okazji, aby spróbować słynnych win chorwackich, od rześkich białych win z półwyspu Pelješac po mocne czerwone wina wytwarzane z winogron **Plavac Mali**.\n\nDzięki tradycji winiarskiej obejmującej ponad 2500 lat odwiedzający mogą spędzać spokojne popołudnia na degustacji i zwiedzaniu rodzinnych winnic rozsianych po całym kraju. Od zapierających dech w piersiach krajobrazów po bogate dziedzictwo kulturowe i wyśmienitą kuchnię, Chorwacja zachęca luksusowych podróżników do doświadczenia jej niezrównanego splendoru.\n\n---\n\n## Najlepsze restauracje w Chorwacji\n\nRozkoszuj się kulinarną doskonałością w tych topowych miejscach gastronomicznych w całej Chorwacji:\n\n- **Restaurant 360° – Dubrownik** \n Oferuje zapierające dech w piersiach widoki i menu wyróżnione gwiazdką Michelin, przygotowane przez szefa kuchni Marijo Curi, prezentujące to, co najlepsze w chorwackiej kuchni.\n\n- **Monte – Rovinj** \n Pierwsza chorwacka restauracja z gwiazdką Michelin, prezentująca dania stworzone przez szefa kuchni Danijela Eki przy użyciu lokalnych składników, które oddają kulinarne dziedzictwo Istrii.\n\n- **Pelegrini – Szybenik** \n Innowacyjna kuchnia dalmacka szefa kuchni Rudiego Stefana, osadzona na tle oszałamiającej katedry św. Jakuba.\n\n- **Noel – Zagrzeb** \n Współczesne menu europejskie autorstwa szefa kuchni Gorana Koji, obiecujące wyrafinowane doznania kulinarne z chorwackim akcentem.\n\n- **Bokeria Kitchen & Wine Bar – Split** \n Zapewnia śródziemnomorskie doznania kulinarne w przytulnym otoczeniu, idealne na relaks po dniu żeglugi na czarterowanym jachcie.\n\n---\n\n## Najlepsze plaże w Chorwacji\n\n### Zlatni Rat – Wyspa Brač\nZlatni Rat to słynna plaża żwirowa o charakterystycznym kształcie, oferująca wspaniałe widoki na Morze Adriatyckie. Idealna dla entuzjastów sportów wodnych, to doskonałe miejsce do uprawiania windsurfingu i jazdy na skuterach wodnych. Po dniu pełnym przygód udaj się do Bol na tętniące życiem życie nocne.\n\n### Plaża Stiniva – Wyspa Vis\nUkryta na południowo-wschodnim wybrzeżu wyspy Vis, plaża Stiniva to zaciszna zatoczka z krystalicznie czystą wodą, otoczona wspaniałymi wapiennymi klifami. To ekskluzywne miejsce idealne na relaks i prywatność.\n\n### Plaża Banje – Dubrownik\nPołożona w pobliżu murów miejskich Dubrownika, plaża Banje oferuje luksusowy wypoczynek ze wspaniałym widokiem na Stare Miasto i wyspę Lokrum. Zrelaksuj się na nieskazitelnych piaskach lub delektuj się koktajlami w klubie Banje Beach Club, aby uzyskać najwyższe wrażenia VIP.\n\n### Plaża Lubenice – Wyspa Cres\nDostępna tylko łodzią lub wymagającą wędrówką, plaża Lubenice to zaciszny raj idealny do snorkelingu i pływania, otoczony naturalnym pięknem i spokojem.\n\n---\n\n## Najpopularniejsze miejsca w Chorwacji\n\n### Hvar – Rajska wyspa\nHvar urzeka poszukiwaczy luksusu oszałamiającymi krajobrazami i wystawną ofertą. Rzuć kotwicę w urokliwym porcie, delektuj się wykwintną kuchnią i ciesz się tętniącym życiem nocnym wzdłuż wspaniałego nabrzeża.\n\n### Vis – Podróż w czasie\nWyspa Vis oferuje autentyczne i odosobnione miejsce wypoczynku zanurzone w bogatym dziedzictwie kulturowym Dalmacji. Odkryj jej historię, spotkaj się z mieszkańcami i odwiedź hipnotyzującą Błękitną Jaskinię.\n\n### Dubrownik – Perła Adriatyku\nStarożytny urok Dubrownika i zapierające dech w piersiach widoki sprawiają, że jest to punkt kulminacyjny każdego luksusowego czarteru jachtu. Spaceruj po historycznych uliczkach, odwiedź zabytki, takie jak Pałac Rektorów, i doświadcz elitarnej gościnności.\n\n### Split – Między starym a nowym\nSplit płynnie łączy starożytną historię z nowoczesnym życiem. Zwiedź Pałac Dioklecjana, spaceruj po Parku Marjan i poczuj tętniącą życiem atmosferę miasta.\n\n### Park Narodowy Mljet – Przystań natury\nPark Narodowy Mljet zachwyca turkusowymi jeziorami i bujnymi lasami. Zakotwicz w zacisznych zatoczkach, odkrywaj spokojne krajobrazy i zanurz się w nieskazitelnej naturze."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/croatia-1.jpg",
+        "/images/destinations/croatia-2.jpg",
+        "/images/destinations/croatia-3.jpg",
+        "/images/destinations/croatia-4.jpg"
+      ]
+    },
+    {
+      "id": "cyprus",
+      "slug": "cyprus",
+      "name": {
+        "en": "Cyprus",
+        "pl": "Cypr"
+      },
+      "featured": false,
+      "image": "/images/destinations/cyprus-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "Cyprus, the third largest island in the Mediterranean, boasts a captivating duality that invites exploration. Chartering a yacht here unveils the contrasting beauty of its southern Greek Cypriot territory and the northern Turkish Cypriot land, offering a rich tapestry of experiences.\n\nFrom luxurious mountain retreats to quaint fishing villages, Cyprus, known as the birthplace of Aphrodite, beckons as one of the Mediterranean's premier superyacht destinations. With its sub-tropical climate and abundant sunshine, there's no better way to discover its charms than aboard a luxury yacht.\n\nNature enthusiasts will delight in Cyprus's three notable reserves. Trek through the lush landscapes of Troodos National Forest Park, which transforms into a tranquil ski resort in winter. Explore scenic trails in the Akamas Nature Reserve or seek out secluded beaches at White Rocks.\n\nFor nightlife aficionados, Ayia Napa buzzes with bars and clubs, while sophisticated dining options abound across the island. Alternatively, indulge in a delectable onboard meal prepared by your private chef using fresh local ingredients.\n\nWith its blend of ancient heritage, modern amenities, and perfect weather, Cyprus offers an enchanting yachting experience year-round.",
+        "pl": "Cypr, trzecia co do wielkości wyspa na Morzu Śródziemnym, szczyci się urzekającą dwoistością, która zachęca do eksploracji. Czarter jachtu tutaj odsłania kontrastujące piękno południowego terytorium greckich Cypryjczyków i północnej ziemi tureckich Cypryjczyków, oferując bogatą mozaikę doświadczeń.\n\nOd luksusowych górskich kurortów po urocze wioski rybackie, Cypr, znany jako miejsce narodzin Afrodyty, kusi jako jedno z czołowych miejsc dla superjachtów na Morzu Śródziemnym. Dzięki subtropikalnemu klimatowi i obfitości słońca nie ma lepszego sposobu na odkrycie jego uroków niż na pokładzie luksusowego jachtu.\n\nMiłośnicy przyrody będą zachwyceni trzema godnymi uwagi rezerwatami Cypru. Wędruj przez bujne krajobrazy Parku Narodowego Leśnego Troodos, który zimą zmienia się w spokojny kurort narciarski. Odkrywaj malownicze szlaki w Rezerwacie Przyrody Akamas lub szukaj zacisznych plaż w White Rocks.\n\nDla miłośników życia nocnego Ayia Napa tętni życiem dzięki barom i klubom, podczas gdy wyrafinowane opcje gastronomiczne obfitują na całej wyspie. Alternatywnie delektuj się wyśmienitym posiłkiem na pokładzie przygotowanym przez Twojego prywatnego szefa kuchni przy użyciu świeżych lokalnych składników.\n\nDzięki połączeniu starożytnego dziedzictwa, nowoczesnych udogodnień i idealnej pogody, Cypr oferuje czarujące doświadczenie żeglarskie przez cały rok."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/cyprus-1.jpg",
+        "/images/destinations/cyprus-2.jpg",
+        "/images/destinations/cyprus-3.jpg",
+        "/images/destinations/cyprus-4.jpg"
+      ]
+    },
+    {
+      "id": "eastern-italy-venice",
+      "slug": "eastern-italy-venice",
+      "name": {
+        "en": "Eastern Italy & Venice",
+        "pl": "Wschodnie Włochy i Wenecja"
+      },
+      "featured": false,
+      "image": "/images/destinations/eastern-italy-venice-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "Embarking on a yacht charter along Italy's east coast offers a unique alternative to the western Mediterranean, presenting a diverse array of activities to indulge in. Depart from Venice and make enchanting stops at picturesque towns along the coastline, immersing yourself in the essence of quintessential Italian culture. From the historic marvels of Ravenna to the vibrant allure of Rimini and the tranquil charm of Bari in Puglia, Italy's Adriatic coast promises an exceptional cruising experience.\n\nVenice, situated upon a lagoon and composed of over 100 tiny islands interconnected by canals and bridges, boasts a distinctive allure and romantic ambiance. As the world's sole pedestrian city, Venice overwhelms the senses with its adorned Basilica di San Marco and Renaissance treasures housed within the Museo Querini Stampalia. Undoubtedly Europe's most photogenic city, Venice demands exploration when embarking on a yacht charter in eastern Italy. Navigate its labyrinthine canals, meander through atmospheric cobblestone streets, admire iconic Renaissance architecture, and witness the artistry of Murano's skilled glassblowers.\n\nDeparting from Venice, the Croatian coast is within a day's sail, yet those yearning for an Italian escapade can venture southward along the Adriatic to discover the splendid beaches and quaint villages dotting the coastline. Pause in Rimini for an alfresco treat at Casina del Bosco, renowned for its diverse and tantalizing piadine offerings, including flavorsome fillings like caramelized figs. Explore Ravenna, home to UNESCO World Heritage Sites adorned with captivating monuments and mosaics. In Puglia, Bari beckons with its simple yet delectable cuisine and the charming fishing villages scattered across this sun-drenched stretch of southeastern Italy.",
+        "pl": "Rozpoczęcie czarteru jachtu wzdłuż wschodniego wybrzeża Włoch oferuje wyjątkową alternatywę dla zachodniego Morza Śródziemnego, prezentując różnorodną gamę atrakcji. Wypłyń z Wenecji i zatrzymaj się w uroczych miasteczkach wzdłuż wybrzeża, zanurzając się w esencji typowej włoskiej kultury. Od historycznych cudów Rawenny po tętniący życiem urok Rimini i spokojny urok Bari w Apulii, włoskie wybrzeże Adriatyku obiecuje wyjątkowe wrażenia z rejsu.\n\nWenecja, położona na lagunie i złożona z ponad 100 małych wysepek połączonych kanałami i mostami, szczyci się charakterystycznym urokiem i romantyczną atmosferą. Jako jedyne na świecie miasto dla pieszych, Wenecja oszałamia zmysły ozdobną Bazyliką św. Marka i renesansowymi skarbami mieszczącymi się w Museo Querini Stampalia. Niewątpliwie najbardziej fotogeniczne miasto Europy, Wenecja wymaga eksploracji podczas czarteru jachtu we wschodnich Włoszech. Żegluj po labiryntach kanałów, wędruj po klimatycznych brukowanych uliczkach, podziwiaj kultową renesansową architekturę i bądź świadkiem kunsztu wykwalifikowanych szklarzy z Murano.\n\nWypływając z Wenecji, wybrzeże Chorwacji znajduje się w odległości jednego dnia żeglugi, jednak ci, którzy pragną włoskiej eskapady, mogą udać się na południe wzdłuż Adriatyku, aby odkryć wspaniałe plaże i urocze wioski rozsiane wzdłuż wybrzeża. Zatrzymaj się w Rimini na posiłek na świeżym powietrzu w Casina del Bosco, znanej z różnorodnych i kuszących ofert piadine, w tym aromatycznych nadzień, takich jak karmelizowane figi. Odkryj Rawennę, dom obiektów z listy światowego dziedzictwa UNESCO, ozdobionych urzekającymi zabytkami i mozaikami. W Apulii Bari kusi prostą, ale wyśmienitą kuchnią i uroczymi wioskami rybackimi rozsianymi po tym skąpanym w słońcu odcinku południowo-wschodnich Włoch."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/eastern-italy-venice-1.jpg",
+        "/images/destinations/eastern-italy-venice-2.jpg",
+        "/images/destinations/eastern-italy-venice-3.jpg",
+        "/images/destinations/eastern-italy-venice-4.jpg"
+      ]
+    },
+    {
+      "id": "montenegro",
+      "slug": "montenegro",
+      "name": {
+        "en": "Montenegro",
+        "pl": "Czarnogóra"
+      },
+      "featured": false,
+      "image": "/images/destinations/montenegro-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "Montenegro, aptly named the ‘black mountain’, holds a special allure with its rich cultural tapestry, diverse landscapes, and untouched coastline, making it an ideal destination for a personalized yacht charter.\n\nNestled in the heart of the Balkans along the Adriatic Sea, Montenegro boasts a rugged interior adorned with some of Europe’s most imposing mountains, while its picturesque coastline is adorned with historic landmarks, ancient walled towns, and a breathtaking Riviera. Embarking on a luxury yacht charter offers an unparalleled opportunity to explore Montenegro's secluded islands and renowned UNESCO World Heritage sites. Drop anchor and delve into exhilarating activities like kayaking, diving, and snorkeling amidst the charming islets, or opt for a leisurely stroll through the cobblestone streets of age-old villages, soaking in their timeless charm.\n\nIndulge in authentic Montenegrin cuisine at quaint family-run eateries; along the coast, savor traditional dishes with a Mediterranean flair, reminiscent of their Italian heritage, featuring delectable cured meats, artisanal breads, and priganice (fritters).\n\nFor a memorable dining experience, dine at the restaurant nestled within the Conte Hotel, an elegant abode perched along the seafront of Perast in Boka Bay, or relish freshly caught fish expertly grilled onboard by your private chef. Once you've experienced the allure of this distinctive yacht charter destination, you'll find yourself longing to return time and time again.",
+        "pl": "Czarnogóra, trafnie nazwana 'czarną górą', posiada wyjątkowy urok dzięki bogatej mozaice kulturowej, różnorodnym krajobrazom i nienaruszonemu wybrzeżu, co czyni ją idealnym miejscem na spersonalizowany czarter jachtu.\n\nPołożona w sercu Bałkanów nad Morzem Adriatyckim, Czarnogóra szczyci się surowym wnętrzem ozdobionym jednymi z najbardziej imponujących gór w Europie, podczas gdy jej malownicze wybrzeże zdobią zabytki, starożytne miasta otoczone murami i zapierająca dech w piersiach Riwiera. Rozpoczęcie luksusowego czarteru jachtu oferuje niezrównaną okazję do odkrycia zacisznych wysp Czarnogóry i słynnych miejsc z listy światowego dziedzictwa UNESCO. Rzuć kotwicę i zagłęb się w ekscytujące zajęcia, takie jak kajakarstwo, nurkowanie i snorkeling wśród uroczych wysepek, lub wybierz spokojny spacer brukowanymi uliczkami wiekowych wiosek, chłonąc ich ponadczasowy urok.\n\nRozkoszuj się autentyczną kuchnią czarnogórską w uroczych, rodzinnych restauracjach; wzdłuż wybrzeża delektuj się tradycyjnymi daniami w śródziemnomorskim stylu, przypominającymi ich włoskie dziedzictwo, z wyśmienitymi wędlinami, rzemieślniczym chlebem i priganice (pączkami).\n\nAby przeżyć niezapomniane wrażenia kulinarne, zjedz kolację w restauracji znajdującej się w hotelu Conte, eleganckiej siedzibie położonej na nabrzeżu Perast w Zatoce Kotorskiej, lub delektuj się świeżo złowioną rybą fachowo zgrillowaną na pokładzie przez Twojego prywatnego szefa kuchni. Gdy już doświadczysz uroku tego wyjątkowego miejsca na czarter jachtu, będziesz chciał wracać tu raz po raz."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/montenegro-1.jpg",
+        "/images/destinations/montenegro-2.jpg",
+        "/images/destinations/montenegro-3.jpg",
+        "/images/destinations/montenegro-4.jpg"
+      ]
+    },
+    {
+      "id": "turkey",
+      "slug": "turkey",
+      "name": {
+        "en": "Turkey",
+        "pl": "Turcja"
+      },
+      "featured": true,
+      "image": "/images/destinations/turkey-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "Turkey stands as a bridge between continents, where diverse cultures and rich traditions converge. It serves as a bustling center of trade, weaving together a tapestry of ethnicities and religious beliefs. This captivating nation beckons visitors with its vibrant energy and chaotic charm, offering a cultural richness that lingers long after departure. Napoleon Bonaparte once mused, \"If the world were a single country, Istanbul would be its capital,\" encapsulating the profound allure of Turkey.\n\nIndeed, Turkey's strategic position has shaped its history and heritage. From the ancient Silk Road merchants to legendary figures like Alexander the Great and Julius Caesar, Turkey has been a crossroads of civilizations throughout time. Embarking on a luxury yacht charter along its enchanting coastlines allows you to immerse yourself effortlessly in the diverse tapestry of Turkey's landscapes and cultures, unveiling the treasures of this dynamic country at every turn.\n\nEmbark on a yacht charter in Turkey and unlock the secrets of its magnificent Mediterranean and Black Sea coastline, stretching an impressive 4,400 miles. Along the mesmerizing Turkish Riviera, known as the Turquoise Coast, awaits a true treasure trove adorned with sunken relics and ancient rock carvings from the Greek and Roman eras.\n\nSail under the boundless azure skies as crystal-clear waters dance under the gentle Mediterranean sun. As dusk falls, sip on a glass of raki while witnessing the sun dip behind the majestic mountain vistas, painting the horizon with a mesmerizing moonlit hue.\n\nFrom luxuriating in a traditional Turkish hammam to discovering pristine beaches and the splendor of Mount Olympus, a luxury yacht charter in Turkey offers an unparalleled voyage through a realm of adventure.\n\nBlessed with untouched islands, secluded coves, and pristine shores, the Turquoise Coast beckons as an oasis for seekers of serenity. Delve into the ancient Myndos ruins, marvel at prehistoric volcanic formations, or lose yourself in bustling bazaars while savoring fragrant rose tea. Beneath the tranquil blue skies and azure waters, where playful dolphins frolic, lies a sanctuary for yachting enthusiasts, inviting you to linger a little longer in its tranquil embrace.",
+        "pl": "Turcja stanowi most między kontynentami, gdzie zbiegają się różnorodne kultury i bogate tradycje. Służy jako tętniące życiem centrum handlu, splatając gobelin grup etnicznych i przekonań religijnych. Ten urzekający naród przyciąga turystów swoją żywiołową energią i chaotycznym urokiem, oferując bogactwo kulturowe, które pozostaje w pamięci długo po wyjeździe. Napoleon Bonaparte zadumał się kiedyś: \"Gdyby świat był jednym krajem, Stambuł byłby jego stolicą\", co oddaje głęboki urok Turcji.\n\nRzeczywiście, strategiczne położenie Turcji ukształtowało jej historię i dziedzictwo. Od starożytnych kupców Jedwabnego Szlaku po legendarne postacie, takie jak Aleksander Wielki i Juliusz Cezar, Turcja od zawsze była skrzyżowaniem cywilizacji. Rozpoczęcie luksusowego czarteru jachtu wzdłuż jej czarujących wybrzeży pozwala bez wysiłku zanurzyć się w różnorodnym gobelinie krajobrazów i kultur Turcji, odsłaniając skarby tego dynamicznego kraju na każdym kroku.\n\nRozpocznij czarter jachtu w Turcji i odkryj sekrety jej wspaniałego wybrzeża Morza Śródziemnego i Czarnego, rozciągającego się na imponujące 4400 mil. Wzdłuż hipnotyzującej Riwiery Tureckiej, znanej jako Wybrzeże Turkusowe, czeka prawdziwy skarb ozdobiony zatopionymi reliktami i starożytnymi rytami skalnymi z epoki greckiej i rzymskiej.\n\nŻegluj pod bezkresnym lazurowym niebem, gdy krystalicznie czyste wody tańczą w delikatnym śródziemnomorskim słońcu. Gdy zapada zmierzch, sącz raki, obserwując słońce chowające się za majestatycznymi górskimi widokami, malujące horyzont hipnotyzującym księżycowym odcieniem.\n\nOd luksusowego relaksu w tradycyjnym tureckim hamamie po odkrywanie dziewiczych plaż i splendoru góry Olimp, luksusowy czarter jachtu w Turcji oferuje niezrównaną podróż przez krainę przygód.\n\nBłogosławione nietkniętymi wyspami, zacisznymi zatoczkami i dziewiczymi brzegami, Wybrzeże Turkusowe kusi jako oaza dla poszukiwaczy spokoju. Zagłęb się w starożytne ruiny Myndos, podziwiaj prehistoryczne formacje wulkaniczne lub zatrać się w tętniących życiem bazarach, delektując się pachnącą herbatą różaną. Pod spokojnym błękitnym niebem i lazurowymi wodami, gdzie baraszkują figlarne delfiny, leży sanktuarium dla entuzjastów jachtingu, zapraszające, by zatrzymać się na dłużej w jego spokojnych objęciach."
+      },
+      "subDestinations": [
+        {
+          "id": "istanbul",
+          "slug": "istanbul",
+          "name": {
+            "en": "Istanbul",
+            "pl": "Stambuł"
+          },
+          "image": "/images/destinations/istanbul-1.jpg",
+          "description": {
+            "en": "Nestled at the crossroads of Europe and Asia, Istanbul presents a mesmerizing skyline where ancient domes and minarets blend seamlessly with modern architecture and boutique hotels. Stepping into the city, you'll uncover remnants of the Roman and Byzantine empires, from the historic Hippodrome to the breathtaking Hagia Sophia, now a revered mosque.\n\nAmong its iconic landmarks stands the Blue Mosque, a stunning testament to 16th-century Islamic artistry. Designated a UNESCO World Heritage Site in 1985, it holds profound cultural and historical significance.\n\nBut Istanbul's allure extends far beyond its ancient wonders. Dive into the opulent world of Ottoman emperors at Topkapi Palace, or lose yourself in the bustling energy of the Grand Bazaar, home to over 4,000 shops. For a taste of contemporary art, explore the Istanbul Modern Museum and immerse yourself in the city's vibrant cultural scene.",
+            "pl": "Położony na skrzyżowaniu Europy i Azji Stambuł prezentuje hipnotyzującą panoramę, w której starożytne kopuły i minarety płynnie łączą się z nowoczesną architekturą i butikowymi hotelami. Wkraczając do miasta, odkryjesz pozostałości imperiów rzymskiego i bizantyjskiego, od historycznego Hipodromu po zapierającą dech w piersiach Hagię Sophię, obecnie czczony meczet.\n\nWśród jego kultowych zabytków znajduje się Błękitny Meczet, oszałamiające świadectwo XVI-wiecznego kunsztu islamskiego. Wpisany na Listę Światowego Dziedzictwa UNESCO w 1985 roku, ma głębokie znaczenie kulturowe i historyczne.\n\nAle urok Stambułu wykracza daleko poza jego starożytne cuda. Zanurz się w opływającym bogactwem świecie osmańskich cesarzy w Pałacu Topkapi lub zatrać się w tętniącej życiem energii Wielkiego Bazaru, będącego domem dla ponad 4000 sklepów. Aby posmakować sztuki współczesnej, odwiedź Muzeum Istanbul Modern i zanurz się w tętniącej życiem scenie kulturalnej miasta."
+          }
+        },
+        {
+          "id": "marmaris",
+          "slug": "marmaris",
+          "name": {
+            "en": "Marmaris",
+            "pl": "Marmaris"
+          },
+          "image": "/images/destinations/marmaris-1.jpg",
+          "description": {
+            "en": "Experience the epitome of a Turkish luxury yacht charter by anchoring in the stunning Marmaris Bay, where rugged mountains meet the crystal-clear waters of the Mediterranean. This former fishing village, now a cosmopolitan hub, boasts one of the world's most impressive natural harbours, attracting yachting enthusiasts from all over the world. Explore the charming old town with its traditional bazaar and Ottoman castle, built in 1522. Enjoy a range of water sports in the pine-clad bay, stroll along the waterfront, and indulge in the local cuisine at one of the many world-class restaurants. Marmaris is the ultimate destination for those seeking a perfect blend of history, culture, and luxury.",
+            "pl": "Doświadcz uosobienia luksusowego czarteru jachtu w Turcji, kotwicząc w oszałamiającej Zatoce Marmaris, gdzie surowe góry spotykają się z krystalicznie czystymi wodami Morza Śródziemnego. Ta dawna wioska rybacka, obecnie kosmopolityczne centrum, szczyci się jednym z najbardziej imponujących naturalnych portów na świecie, przyciągając entuzjastów jachtingu z całego świata. Zwiedź urocze stare miasto z tradycyjnym bazarem i zamkiem osmańskim zbudowanym w 1522 roku. Ciesz się szeregiem sportów wodnych w zatoce porośniętej sosnami, spaceruj wzdłuż nabrzeża i delektuj się lokalną kuchnią w jednej z wielu światowej klasy restauracji. Marmaris to ostateczny cel podróży dla tych, którzy szukają idealnego połączenia historii, kultury i luksusu."
+          }
+        },
+        {
+          "id": "bodrum",
+          "slug": "bodrum",
+          "name": {
+            "en": "Bodrum",
+            "pl": "Bodrum"
+          },
+          "image": "/images/destinations/bodrum-1.jpg",
+          "description": {
+            "en": "Adorned with charming whitewashed houses and cascading bougainvillea, Bodrum exudes a Bohemian flair sure to captivate all who visit. Its blue flag beaches and tranquil bays offer relaxation and exploration, while history buffs can delve into ancient wonders like the Mausoleum at Halicarnassus and Castle of St. Peter.\n\nAs night falls, Bodrum's vibrant nightlife takes the stage, attracting the elite with its artistic expression and cultural diversity. A perfect blend of relaxation, adventure, and culture, Bodrum awaits as the ultimate destination for a luxury yacht charter in Turkey.",
+            "pl": "Ozdobione urokliwymi bielonymi domami i kaskadami bugenwilli, Bodrum emanuje cyganerią, która z pewnością urzeknie wszystkich odwiedzających. Plaże z błękitną flagą i spokojne zatoki oferują relaks i eksplorację, a miłośnicy historii mogą zagłębić się w starożytne cuda, takie jak Mauzoleum w Halikarnasie i Zamek św. Piotra.\n\nGdy zapada noc, tętniące życiem życie nocne Bodrum wkracza na scenę, przyciągając elitę swoją ekspresją artystyczną i różnorodnością kulturową. Będąc idealnym połączeniem relaksu, przygody i kultury, Bodrum czeka jako ostateczny cel luksusowego czarteru jachtu w Turcji."
+          }
+        },
+        {
+          "id": "gocek",
+          "slug": "gocek",
+          "name": {
+            "en": "Göcek",
+            "pl": "Göcek"
+          },
+          "image": "/images/destinations/gocek-1.jpg",
+          "description": {
+            "en": "Discover a sanctuary of turquoise waters and lush landscapes adorned with archaeological wonders during your journey through the captivating Gulf of Göcek on a motor yacht charter in Turkey. Renowned as one of the world's most stunning yachting destinations, this bustling port is safeguarded as a special protected area, ensuring the preservation of its natural allure.\n\nStart your yacht charter adventure from Göcek's historic harbor and numerous marinas, surrounded by sheltered bays ideal for water sports enthusiasts of all skill levels. Treat yourself to a Turkish Hammam experience at the luxurious D-Resort Göcek, nestled amidst picturesque gardens, a private beach, and a marina. With a private yacht, you can also explore the delightful nearby towns of Dalyan, Kalkan, and Kaş, each offering its own unique charm and a sense of tranquility away from the tourist crowds.",
+            "pl": "Odkryj sanktuarium turkusowych wód i bujnych krajobrazów ozdobionych archeologicznymi cudami podczas podróży przez urzekającą Zatokę Göcek na czarterze jachtu motorowego w Turcji. Znany jako jedno z najpiękniejszych miejsc żeglarskich na świecie, ten tętniący życiem port jest chroniony jako specjalny obszar chroniony, zapewniający zachowanie jego naturalnego uroku.\n\nRozpocznij swoją przygodę z czarterem jachtu od historycznego portu Göcek i licznych marin, otoczonych osłoniętymi zatokami idealnymi dla entuzjastów sportów wodnych na każdym poziomie umiejętności. Zafunduj sobie łaźnię turecką w luksusowym D-Resort Göcek, położonym pośród malowniczych ogrodów, z prywatną plażą i mariną. Mając prywatny jacht, możesz również zwiedzić urocze pobliskie miasta Dalyan, Kalkan i Kaş, z których każde oferuje swój własny niepowtarzalny urok i poczucie spokoju z dala od turystycznych tłumów."
+          }
+        },
+        {
+          "id": "fethiye",
+          "slug": "fethiye",
+          "name": {
+            "en": "Fethiye",
+            "pl": "Fethiye"
+          },
+          "image": "/images/destinations/fethiye-1.jpg",
+          "description": {
+            "en": "Situated along the captivating Turquoise Coast, Fethiye shines as a standout destination on any luxury yacht charter in Turkey. Rich in history and natural splendor, this vibrant town effortlessly combines elegance with coastal allure. Explore ancient Telmessos through its Lycian tombs and sarcophagi while treating yourself to local delights such as freshly caught fish and delectable Turkish Delight.\n\nOpting for an exclusive yacht rental in Fethiye ensures access to serene lagoons, hidden beaches, and pristine waters perfect for swimming, snorkeling, and diving. With its bustling market and warm-hearted locals, Fethiye invites you to fully immerse yourself in its cultural tapestry, where even a sip of strong Turkish coffee might unveil secrets of the future.",
+            "pl": "Położone wzdłuż urzekającego Wybrzeża Turkusowego, Fethiye błyszczy jako wyróżniające się miejsce na każdym luksusowym czarterze jachtu w Turcji. Bogate w historię i naturalny splendor, to tętniące życiem miasto bez wysiłku łączy elegancję z nadmorskim urokiem. Poznaj starożytne Telmessos poprzez licyjskie grobowce i sarkofagi, jednocześnie delektując się lokalnymi przysmakami, takimi jak świeżo złowione ryby i wyborne Turkish Delight.\n\nWybór ekskluzywnego wynajmu jachtu w Fethiye zapewnia dostęp do spokojnych lagun, ukrytych plaż i dziewiczych wód idealnych do pływania, snorkelingu i nurkowania. Dzięki tętniącemu życiem rynkowi i serdecznym mieszkańcom Fethiye zaprasza do pełnego zanurzenia się w jego kulturowej mozaice, gdzie nawet łyk mocnej tureckiej kawy może odsłonić sekrety przyszłości."
+          }
+        },
+        {
+          "id": "blue-lagoon-oludeniz",
+          "slug": "blue-lagoon-oludeniz",
+          "name": {
+            "en": "Blue Lagoon, Ölüdeniz",
+            "pl": "Błękitna Laguna, Ölüdeniz"
+          },
+          "image": "/images/destinations/blue-lagoon-oludeniz-1.jpg",
+          "description": {
+            "en": "Discover the enchanting Blue Lagoon, Ölüdeniz, nestled along Turkey's southern coast. Draped in lush forests and framed by majestic mountains, its turquoise waters beckon for a refreshing dip. With panoramic views and an atmosphere of laid-back luxury, it's the ultimate spot to unwind and rejuvenate.",
+            "pl": "Odkryj czarującą Błękitną Lagunę, Ölüdeniz, położoną wzdłuż południowego wybrzeża Turcji. Otoczona bujnymi lasami i obramowana majestatycznymi górami, jej turkusowe wody zachęcają do orzeźwiającej kąpieli. Dzięki panoramicznym widokom i atmosferze swobodnego luksusu jest to idealne miejsce na relaks i odmłodzenie."
+          }
+        },
+        {
+          "id": "kabak-beach",
+          "slug": "kabak-beach",
+          "name": {
+            "en": "Kabak Beach",
+            "pl": "Plaża Kabak"
+          },
+          "image": "/images/destinations/kabak-beach-1.jpg",
+          "description": {
+            "en": "Experience the allure of Kabak Beach, tucked away in a serene cove south of Ölüdeniz. Accessible only by yacht or a steep descent, this secluded paradise boasts crystalline waters, white sand, and peaceful surroundings—a true gem for those seeking tranquility.",
+            "pl": "Poczuj urok plaży Kabak, ukrytej w spokojnej zatoce na południe od Ölüdeniz. Dostępny tylko jachtem lub stromym zejściem, ten zaciszny raj szczyci się krystalicznymi wodami, białym piaskiem i spokojnym otoczeniem — prawdziwy klejnot dla osób szukających spokoju."
+          }
+        },
+        {
+          "id": "cleopatra-beach-alanya",
+          "slug": "cleopatra-beach-alanya",
+          "name": {
+            "en": "Cleopatra Beach, Alanya",
+            "pl": "Plaża Kleopatry, Alanya"
+          },
+          "image": "/images/destinations/cleopatra-beach-alanya-1.jpg",
+          "description": {
+            "en": "Indulge in the opulence of Cleopatra Beach in Alanya, where powdery white sands meet towering castle views. Relax by the crystal-clear waters or immerse yourself in the sophisticated atmosphere amidst chic shops and cafes—a beachside escape fit for royalty.",
+            "pl": "Zanurz się w bogactwie Plaży Kleopatry w Alanyi, gdzie sypki biały piasek spotyka się z widokami na górujący zamek. Zrelaksuj się przy krystalicznie czystej wodzie lub zanurz się w wyrafinowanej atmosferze pośród eleganckich sklepów i kawiarni — nadmorska ucieczka godna królewskości."
+          }
+        },
+        {
+          "id": "butterfly-valley",
+          "slug": "butterfly-valley",
+          "name": {
+            "en": "Kelebekler Vadisi (Butterfly Valley)",
+            "pl": "Dolina Motyli"
+          },
+          "image": "/images/destinations/butterfly-valley-1.jpg",
+          "description": {
+            "en": "Explore the breathtaking Butterfly Valley, accessible only by boat, near Ölüdeniz. Nestled amidst picturesque cliffs, lush flora, and home to hundreds of butterfly species, it's a paradise for nature lovers seeking serenity.",
+            "pl": "Odkryj zapierającą dech w piersiach Dolinę Motyli, dostępną tylko łodzią, w pobliżu Ölüdeniz. Położona pośród malowniczych klifów, bujnej flory i będąca domem dla setek gatunków motyli, jest rajem dla miłośników przyrody szukających spokoju."
+          }
+        },
+        {
+          "id": "olympos-cirali-beach",
+          "slug": "olympos-cirali-beach",
+          "name": {
+            "en": "Olympos and Cirali Beach",
+            "pl": "Plaża Olympos i Cirali"
+          },
+          "image": "/images/destinations/olympos-cirali-beach-1.jpg",
+          "description": {
+            "en": "Venture into the foothills of the Taurus Mountains and discover the majestic ruins of Olympos at one end of this historic beach and the mystical Chimaera flames at the other. With unspoiled beauty and exclusivity, it offers a pristine escape from the ordinary.",
+            "pl": "Wybierz się na podnóże gór Taurus i odkryj majestatyczne ruiny Olympos na jednym końcu tej historycznej plaży oraz mistyczne płomienie Chimaera na drugim. Dzięki nienaruszonemu pięknu i ekskluzywności oferuje dziewiczą ucieczkę od codzienności."
+          }
+        },
+        {
+          "id": "patara-beach",
+          "slug": "patara-beach",
+          "name": {
+            "en": "Patara Beach",
+            "pl": "Plaża Patara"
+          },
+          "image": "https://images.unsplash.com/photo-1652015069296-ab91e866c439?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": {
+            "en": "Experience beachside bliss at Patara Beach, an 18-kilometer expanse of pristine sand. Backed by dunes and warm waters, it's ideal for windsurfing and kiteboarding. Named after an ancient city, it offers both natural beauty and historical significance—a perfect retreat for luxury yacht travelers.",
+            "pl": "Poczuj błogość na plaży Patara, 18-kilometrowym pasie dziewiczego piasku. Wsparta wydmami i ciepłymi wodami, jest idealna do uprawiania windsurfingu i kitesurfingu. Nazwana na cześć starożytnego miasta, oferuje zarówno naturalne piękno, jak i znaczenie historyczne — idealne miejsce dla luksusowych podróżników jachtowych."
+          }
+        }
+      ],
+      "gallery": [
+        "/images/destinations/turkey-1.jpg",
+        "/images/destinations/turkey-2.jpg",
+        "/images/destinations/turkey-3.jpg",
+        "/images/destinations/turkey-4.jpg"
+      ]
+    },
+    {
+      "id": "saronic-islands",
+      "slug": "saronic-islands",
+      "name": {
+        "en": "The Saronic Islands",
+        "pl": "Wyspy Sarońskie"
+      },
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1692528614253-13d32c247e1d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "thumbnail": "",
+      "description": {
+        "en": "The Saronic Islands of Greece offer a unique yacht charter experience with their serene blue sea and relaxed atmosphere. Explore whitewashed tavernas, stroll endless beaches, and immerse yourself in ancient culture amidst captivating ruins. Bustling village cafes serve rustic local cuisine, while scenic pathways wind through olive groves and pine-strewn shores. Accessible by yacht, tranquil private coves and stunning beaches await exploration. Discover rich history and mythology, from worshipping Poseidon in Poros to reliving sea battles in Salamina. Experience the warm Greek hospitality and charm, making Saronic Islands a perfect destination for ouzo-filled evenings and unforgettable adventures.",
+        "pl": "Greckie Wyspy Sarońskie oferują wyjątkowe wrażenia z czarteru jachtu dzięki spokojnemu błękitnemu morzu i relaksującej atmosferze. Odkrywaj bielone tawerny, spaceruj po niekończących się plażach i zanurz się w starożytnej kulturze pośród urzekających ruin. Tętniące życiem wiejskie kawiarnie serwują rustykalną lokalną kuchnię, a malownicze ścieżki wiją się przez gaje oliwne i porośnięte sosnami brzegi. Dostępne jachtem, spokojne prywatne zatoczki i wspaniałe plaże czekają na odkrycie. Odkryj bogatą historię i mitologię, od oddawania czci Posejdonowi na Poros po ponowne przeżywanie bitew morskich na Salaminie. Doświadcz ciepłej greckiej gościnności i uroku, dzięki czemu Wyspy Sarońskie są idealnym miejscem na wieczory wypełnione ouzo i niezapomniane przygody."
+      },
+      "subDestinations": []
+    },
+    {
+      "id": "ionian-islands",
+      "slug": "ionian-islands",
+      "name": {
+        "en": "The Ionian Islands",
+        "pl": "Wyspy Jońskie"
+      },
+      "featured": false,
+      "image": "/images/destinations/ionian-islands-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "With their captivating blend of Venetian, British, and French influences, the twelve Ionian Islands offer a unique Greek yacht charter experience. Blessed with a mild climate and ideal sailing conditions, these islands boast lush landscapes, pristine beaches, and historic sites. From Zakynthos to Corfu, each island has its own charm, from the mythological allure of Ithaca to the cinematic beauty of Kefalonia. Enjoy serene retreats in Lefkada, indulge in local cuisine with stunning views, and explore historic sites like the Moni Theotokou monastery in Corfu.",
+        "pl": "Dzięki urzekającej mieszance wpływów weneckich, brytyjskich i francuskich dwanaście Wysp Jońskich oferuje wyjątkowe wrażenia z greckiego czarteru jachtu. Błogosławione łagodnym klimatem i idealnymi warunkami żeglarskimi, wyspy te szczycą się bujnymi krajobrazami, dziewiczymi plażami i zabytkami. Od Zakynthos po Korfu, każda wyspa ma swój własny urok, od mitologicznego uroku Itaki po filmowe piękno Kefalonii. Ciesz się spokojnym wypoczynkiem na Lefkadzie, delektuj się lokalną kuchnią ze wspaniałymi widokami i odkrywaj historyczne miejsca, takie jak klasztor Moni Theotokou na Korfu."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/ionian-islands-1.jpg",
+        "/images/destinations/ionian-islands-2.jpg",
+        "/images/destinations/ionian-islands-3.jpg",
+        "/images/destinations/ionian-islands-4.jpg"
+      ]
+    },
+    {
+      "id": "dodecanese",
+      "slug": "dodecanese",
+      "name": {
+        "en": "The Dodecanese",
+        "pl": "Dodekanez"
+      },
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1635882390700-b42a6242cfef?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "thumbnail": "",
+      "description": {
+        "en": "Nestled in the Aegean Sea near Turkey, the twelve large and several small islands of the Dodecanese are rich in history and folklore, offering a wealth of archaeological wonders to explore. With their sweeping beaches, towering mountains, and endless blue skies, these islands provide the perfect setting for a memorable yacht cruise.\n\nAmong the most renowned destinations in the Dodecanese are Rhodes and Kos, each with its own allure. Rhodes boasts magnificent beaches, a well-preserved medieval town, and UNESCO World Heritage sites. Wander through the narrow streets of the old town or marvel at the medieval fortifications from the comfort of your yacht.\n\nKos, known for its sandy beaches and medieval settlements, is equally captivating. It serves as an excellent base for exploring nearby islands like Leros, Kalymnos, and Patmos. Leros offers fantastic diving opportunities, Kalymnos is famous for rock climbing, and Patmos holds historical significance as the place where Saint John wrote the Apocalypse.",
+        "pl": "Położone na Morzu Egejskim w pobliżu Turcji, dwanaście dużych i kilka małych wysp Dodekanezu jest bogatych w historię i folklor, oferując bogactwo cudów archeologicznych do odkrycia. Dzięki szerokim plażom, strzelistym górom i bezkresnemu błękitnemu niebu wyspy te stanowią idealne tło dla niezapomnianego rejsu jachtem.\n\nWśród najbardziej znanych miejsc na Dodekanezie znajdują się Rodos i Kos, z których każde ma swój własny urok. Rodos szczyci się wspaniałymi plażami, dobrze zachowanym średniowiecznym miastem i miejscami z listy światowego dziedzictwa UNESCO. Wędruj wąskimi uliczkami starego miasta lub podziwiaj średniowieczne fortyfikacje z pokładu swojego jachtu.\n\nKos, znane z piaszczystych plaż i średniowiecznych osad, jest równie urzekające. Służy jako doskonała baza wypadowa do odkrywania pobliskich wysp, takich jak Leros, Kalymnos i Patmos. Leros oferuje fantastyczne możliwości nurkowania, Kalymnos słynie ze wspinaczki skałkowej, a Patmos ma znaczenie historyczne jako miejsce, w którym Święty Jan napisał Apokalipsę."
+      },
+      "subDestinations": []
+    },
+    {
+      "id": "cyclades",
+      "slug": "cyclades",
+      "name": {
+        "en": "The Cyclades",
+        "pl": "Cyklady"
+      },
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1764384709077-a36b83d4eca2?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "thumbnail": "",
+      "description": {
+        "en": "Explore the enchanting Cyclades Islands on a yacht charter for an unforgettable Greek adventure.\n\nLocated in the Aegean Sea, near Athens, these 39 stunning islands offer a quintessential Greek experience with their charming villages and crystal-clear bays. With whitewashed houses, blue-domed churches, and old windmills, the Cyclades exude the essence of Greece.\n\nChartering a yacht here grants you the freedom to tailor your journey, hopping between islands at your leisure. The calm, warm waters make it perfect for couples, friends, or families seeking relaxation.\n\nMykonos, Santorini, and Ios are popular destinations known for their romantic ambiance. From Santorini's volcanic landscapes to Mykonos' vibrant nightlife, each island has its own allure. Don't miss exploring lesser-known gems like Folegandros and Sikinos, where tranquility reigns amidst stunning landscapes.\n\nWith its oak forests and hot springs, Kea and Kythnos offer quieter retreats. And throughout the Cyclades, the warm Meltemi wind ensures excellent sailing conditions from June to September.",
+        "pl": "Odkryj czarujące Cyklady podczas czarteru jachtu i przeżyj niezapomnianą grecką przygodę [1].\n\nPołożone na Morzu Egejskim, w pobliżu Aten, te 39 oszałamiających wysp oferuje kwintesencję greckich doświadczeń dzięki urokliwym wioskom i krystalicznie czystym zatokom. Dzięki bielonym domom, kościołom z niebieskimi kopułami i starym wiatrakom, Cyklady emanują esencją Grecji [1].\n\nCzarter jachtu w tym miejscu daje swobodę dostosowania podróży do własnych potrzeb i przemieszczania się między wyspami w wolnym czasie. Spokojne, ciepłe wody sprawiają, że jest to idealne miejsce dla par, przyjaciół lub rodzin szukających relaksu [1].\n\nMykonos, Santorini i Ios to popularne miejsca znane z romantycznej atmosfery. Od wulkanicznych krajobrazów Santorini po tętniące życiem nocne Mykonos, każda wyspa ma swój własny urok. Nie przegap zwiedzania mniej znanych perełek, takich jak Folegandros i Sikinos, gdzie pośród zachwycających krajobrazów panuje spokój [1].\n\nKea i Kitnos, z dębowymi lasami i gorącymi źródłami, oferują spokojniejszy wypoczynek. A na wszystkich Cykladach ciepły wiatr Meltemi zapewnia doskonałe warunki żeglarskie od czerwca do września [1]."
+      },
+      "subDestinations": []
+    },
+    {
+      "id": "amalfi-coast",
+      "slug": "amalfi-coast",
+      "name": {
+        "en": "Amalfi Coast",
+        "pl": "Wybrzeże Amalfi"
+      },
+      "featured": false,
+      "image": "/images/destinations/amalfi-coast-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "Experience the unmatched luxury of chartering a superyacht along the Amalfi Coast. With its stunning scenery, romantic ambiance, and rich Italian charm, it's an unforgettable journey that leaves lasting memories. From exploring charming towns to savoring gourmet cuisine, the Amalfi Coast offers an array of experiences for every traveler.\n\nThe Amalfi Coast extends from the southern part of Italy toward the Tyrrhenian Sea, featuring dramatic cliffs meeting the sparkling waters. With charming coastal towns, winding roads along cliffsides, and stunning natural landscapes, it's a standout destination in the Mediterranean. Its mix of bustling settlements and tranquil beauty makes it ideal for cruising. Renowned for its scenic coastline and delectable cuisine, the Amalfi Coast offers a complete experience, from lavish resorts to gourmet dining. Whether relaxing at Marina Grande or exploring the streets of Positano and Ravello, a luxury yacht charter promises diverse and unforgettable adventures for all travellers.\n\nExplore the rich history of the Amalfi Coast on your yacht charter journey. Besides the famous sites of Pompeii and Herculaneum, there are other historical treasures waiting to be discovered. Visit Paestum, a charming town in the southern Amalfi Coast known for its well-preserved Greek temples. These temples, dating back to ancient times, offer a fascinating glimpse into the past.\n\nFor art and architecture enthusiasts, Amalfi and Ravello are must-visit destinations. The Cathedral of Amalfi, built in the 11th century, showcases Norman-era grandeur, while Villa Rufolo in Ravello epitomizes Mediterranean luxury with its breathtaking beauty.\n\nCapri houses the Certosa di San Giacomo, a former monastery turned museum filled with exquisite artworks. Its immaculate gardens and remarkable architecture make it a memorable stop on your journey.\n\nIn Salerno, don't miss the 11th-century Salerno Cathedral, adorned with stunning frescoes and intricate artwork, representing the height of Romanesque architecture.\n\nFinally, the historic Church of Santa Maria Assunta in Positano, dating back to the 13th century, is a testament to Byzantine artistry, drawing art enthusiasts and historians alike.\n\nExperience the simplicity and elegance of Italian cuisine during your Amalfi yacht rental. Food enthusiasts will be delighted by the region's vibrant culinary offerings. Enjoy fresh seafood dishes paired with crisp Italian wines at seaside restaurants, or savor homemade pasta and pizza at cozy trattorias. Don't forget to indulge in limoncello, a local specialty made from the abundant lemon groves.\n\nDon Alfonso 1890, located in Sant'Agata sui Due Golfi, stands out among Amalfi Coast dining options. This family-run Michelin-starred restaurant offers a stunning Gulf of Naples view and serves a blend of traditional and contemporary dishes like lobster ravioli, sea bass with caviar, and homemade tagliolini with truffles, accompanied by an extensive wine list. It's an ideal spot for a romantic dinner or special occasion.\n\nFor a more relaxed dining experience, visit Da Adolfo in Laurito Beach, accessible only by boat. This rustic beachside restaurant offers an authentic Amalfi Coast experience, featuring grilled seafood and the renowned spaghetti alle vongole (spaghetti with clams), considered the best on the coast. Enjoy the serene beach ambiance and savor the flavors of the Amalfi Coast.",
+        "pl": "Doświadcz niezrównanego luksusu czarterując superjacht wzdłuż Wybrzeża Amalfi. Dzięki oszałamiającej scenerii, romantycznej atmosferze i bogatemu włoskiemu urokowi, jest to niezapomniana podróż, która pozostawia trwałe wspomnienia [2]. Od zwiedzania urokliwych miasteczek po delektowanie się wykwintną kuchnią, Wybrzeże Amalfi oferuje szereg wrażeń dla każdego podróżnika [2].\n\nWybrzeże Amalfi rozciąga się od południowej części Włoch w kierunku Morza Tyrreńskiego, oferując dramatyczne klify stykające się z mieniącymi wodami. Dzięki urokliwym nadmorskim miasteczkom, krętym drogom wzdłuż zboczy klifów i oszałamiającym krajobrazom naturalnym, jest to wyróżniające się miejsce w regionie Morza Śródziemnego [2]. Mieszanka tętniących życiem osad i spokojnego piękna sprawia, że jest to idealne miejsce na rejs. Znane ze swojego malowniczego wybrzeża i wyśmienitej kuchni, Wybrzeże Amalfi oferuje pełne doświadczenie, od wystawnych kurortów po wykwintne kolacje. Niezależnie od tego, czy relaksujesz się w Marina Grande, czy odkrywasz ulice Positano i Ravello, luksusowy czarter jachtu obiecuje różnorodne i niezapomniane przygody dla wszystkich podróżnych [2].\n\nOdkryj bogatą historię Wybrzeża Amalfi podczas podróży czarterowym jachtem. Oprócz słynnych miejsc, takich jak Pompeje i Herkulanum, na odkrycie czekają inne historyczne skarby [2]. Odwiedź Paestum, urocze miasteczko w południowej części Wybrzeża Amalfi, znane z dobrze zachowanych greckich świątyń. Te świątynie, datowane na czasy starożytne, oferują fascynujący wgląd w przeszłość [2].\n\nDla miłośników sztuki i architektury Amalfi i Ravello to miejsca, które trzeba odwiedzić. Katedra w Amalfi, zbudowana w XI wieku, ukazuje wspaniałość epoki normańskiej, podczas gdy Villa Rufolo w Ravello uosabia śródziemnomorski luksus swoim zapierającym dech w piersiach pięknem [2].\n\nCapri mieści Certosa di San Giacomo, dawny klasztor przekształcony w muzeum wypełnione wykwintnymi dziełami sztuki. Jego nienaganne ogrody i niezwykła architektura czynią go niezapomnianym przystankiem w Twojej podróży [2].\n\nW Salerno nie przegap XI-wiecznej katedry w Salerno, ozdobionej oszałamiającymi freskami i misternymi dziełami sztuki, reprezentującej szczyt architektury romańskiej [2].\n\nWreszcie, zabytkowy kościół Santa Maria Assunta w Positano, pochodzący z XIII wieku, jest świadectwem sztuki bizantyjskiej, przyciągającym zarówno miłośników sztuki, jak i historyków [2].\n\nDoświadcz prostoty i elegancji kuchni włoskiej podczas wynajmu jachtu na Amalfi. Entuzjaści jedzenia będą zachwyceni tętniącą życiem ofertą kulinarną regionu [2]. Ciesz się świeżymi daniami z owoców morza w połączeniu z rześkimi włoskimi winami w nadmorskich restauracjach lub delektuj się domowym makaronem i pizzą w przytulnych trattoriach. Nie zapomnij skosztować limoncello, lokalnego specjału wytwarzanego z obfitych gajów cytrynowych [2].\n\nDon Alfonso 1890, położony w Sant'Agata sui Due Golfi, wyróżnia się wśród opcji gastronomicznych na Wybrzeżu Amalfi. Ta prowadzona przez rodzinę restauracja z gwiazdką Michelin oferuje wspaniały widok na Zatokę Neapolitańską i serwuje mieszankę dań tradycyjnych i współczesnych, takich jak ravioli z homarem, okoń morski z kawiorem i domowe tagliolini z truflami, w towarzystwie bogatej karty win [2]. To idealne miejsce na romantyczną kolację lub specjalną okazję.\n\nAby zjeść posiłek w bardziej swobodnej atmosferze, odwiedź Da Adolfo na plaży Laurito, dostępnej tylko łodzią. Ta rustykalna restauracja przy plaży oferuje autentyczne doznania z Wybrzeża Amalfi, oferując grillowane owoce morza i słynne spaghetti alle vongole (spaghetti z małżami), uważane za najlepsze na wybrzeżu [2]. Ciesz się spokojną atmosferą plaży i delektuj smakami Wybrzeża Amalfi."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/amalfi-coast-1.jpg",
+        "/images/destinations/amalfi-coast-2.jpg",
+        "/images/destinations/amalfi-coast-3.jpg",
+        "/images/destinations/amalfi-coast-4.jpg"
+      ]
+    },
+    {
+      "id": "corsica-sardinia",
+      "slug": "corsica-sardinia",
+      "name": {
+        "en": "Corsica & Sardinia",
+        "pl": "Korsyka i Sardynia"
+      },
+      "featured": false,
+      "image": "/images/destinations/corsica-sardinia-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "The Mediterranean islands offer exceptional cruising grounds for a luxury yacht charter, boasting beautiful anchorages, charming towns, and numerous secluded coves.\n\nCorsica, rising majestically from the sea, is a playground for superyachts, attracting families and activity enthusiasts alike. With its windswept landscapes and natural allure, this peaceful French island lies to the west of Italy and north of Sardinia, characterized by rocky outcrops and a fiercely proud Corsican culture. The island's mountainous interior is dotted with picturesque villages nestled between hills, surrounded by over 200 stunning beaches. With more than 1,000km of coastline, there are endless opportunities to drop anchor, swim, and bask in the gentle sea breeze.\n\nBonifacio stands out as a favored destination for yacht charters in Corsica, perched dramatically on cliffs overlooking the sea. Its pastel-colored houses atop the rocks and charming old town make for a captivating sight.\n\nPorto Vecchio blends old-world charm with modern luxury, featuring well-preserved Genoese architecture and a lively atmosphere. Meanwhile, Plage de Palombaggia offers a beachside paradise, with superyachts anchoring in the bay opposite the vast sandy beach.\n\nNeighboring Sardinia exudes luxury, especially in the famed Costa Smeralda region. This area, elevated to exclusivity in the 1960s, is renowned for its lavish villas and picturesque bays lined with superyachts. Porto Cervo and Cala di Volpe are must-visit destinations, offering sophisticated dining and breathtaking views.\n\nFor those seeking tranquility, La Maddalena offers a serene escape. The seven main isles in the Maddalena National Park form a stunning archipelago, characterized by rugged landscapes and Italian charm. Porto Rotondo and Cagliari also boast impressive sights, making Sardinia a haven for yacht charters seeking beauty and relaxation.",
+        "pl": "Wyspy Morza Śródziemnego oferują wyjątkowe tereny do żeglowania podczas luksusowego czarteru jachtu, szczycąc się pięknymi kotwicowiskami, urokliwymi miasteczkami i licznymi zacisznymi zatoczkami [3].\n\nKorsyka, majestatycznie wznosząca się z morza, jest placem zabaw dla superjachtów, przyciągającym zarówno rodziny, jak i entuzjastów aktywnego wypoczynku. Dzięki smaganym wiatrem krajobrazom i naturalnemu urokowi, ta spokojna francuska wyspa leży na zachód od Włoch i na północ od Sardynii, charakteryzując się skalistymi wychodniami i niezwykle dumną kulturą korsykańską [3]. Górzyste wnętrze wyspy usiane jest malowniczymi wioskami położonymi między wzgórzami, otoczonymi przez ponad 200 zachwycających plaż. Dzięki ponad 1000 km linii brzegowej istnieją nieskończone możliwości rzucenia kotwicy, pływania i wygrzewania się w łagodnej morskiej bryzie [3].\n\nBonifacio wyróżnia się jako ulubione miejsce czarterów jachtów na Korsyce, dramatycznie usytuowane na klifach z widokiem na morze. Jego pastelowe domy na szczycie skał i urocze stare miasto stanowią urzekający widok [3].\n\nPorto Vecchio łączy urok starego świata z nowoczesnym luksusem, oferując dobrze zachowaną architekturę genueńską i tętniącą życiem atmosferę. Tymczasem plaża Palombaggia oferuje raj na plaży, z superjachtami kotwiczącymi w zatoce naprzeciwko rozległej piaszczystej plaży [3].\n\nSąsiednia Sardynia emanuje luksusem, zwłaszcza w słynnym regionie Costa Smeralda. Obszar ten, podniesiony do rangi ekskluzywnego w latach 60. XX wieku, słynie z wystawnych willi i malowniczych zatok otoczonych superjachtami. Porto Cervo i Cala di Volpe to miejsca, które trzeba odwiedzić, oferujące wyrafinowaną kuchnię i zapierające dech w piersiach widoki [3].\n\nDla tych, którzy szukają spokoju, La Maddalena oferuje cichą ucieczkę. Siedem głównych wysp w Parku Narodowym Maddalena tworzy oszałamiający archipelag, charakteryzujący się surowymi krajobrazami i włoskim urokiem. Porto Rotondo i Cagliari również mogą pochwalić się imponującymi zabytkami, czyniąc Sardynię rajem dla czarterów jachtów poszukujących piękna i relaksu [3]."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/corsica-sardinia-1.jpg",
+        "/images/destinations/corsica-sardinia-2.jpg"
+      ]
+    },
+    {
+      "id": "french-riviera",
+      "slug": "french-riviera",
+      "name": {
+        "en": "French Riviera",
+        "pl": "Riwiera Francuska"
+      },
+      "featured": false,
+      "image": "/images/destinations/french-riviera-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "Embark on an indulgent journey with a French Riviera yacht charter, immersing yourself in the splendor of one of Europe's most prestigious destinations. Since the early 20th century, the French Riviera has magnetized the affluent and renowned, boasting a coastline that epitomizes Europe's most picturesque landscapes.\n\nKnown as the Cote d'Azur, the French Riviera is a coveted luxury holiday spot, where glamorous towns, rich history, and diverse culinary delights converge. From the designer boutiques of Cannes to the Michelin-starred restaurants of Nice, each town exudes its own unique charm and allure.\n\nA French Riviera luxury yacht charter ensures unforgettable experiences, granting you the freedom to explore exquisite shopping avenues and dine at high-end establishments at your leisure. Traverse the lively streets of St. Tropez, savoring a leisurely lunch, before retreating to a secluded cove for tranquil sunbathing in utmost privacy.\n\nVenture further east to Monaco, the epitome of elite indulgence, where supercars and superyachts harmonize in opulent harmony, and haute couture reigns supreme. Inspired by the azure waters that captivated artistic luminaries like Picasso and Cezanne, the French Riviera invites exploration of its natural beauty and artistic heritage.\n\nIn addition to its cultural and scenic offerings, the French Riviera boasts a culinary scene that delights the most discerning palates. Indulge in sumptuous seafood platters, exquisite Provencal cuisine, and fine wines from renowned vineyards. For the ultimate gastronomic experience, dine at high-end restaurants like Le Louis XV-Alain Ducasse à l'Hôtel de Paris in Monaco or La Palme d'Or in Cannes, where culinary excellence meets luxurious sophistication.\n\nWith its blend of luxury, culture, and gastronomy, a French Riviera yacht charter promises an unforgettable voyage into the heart of elegance and refinement.",
+        "pl": "Wyrusz w pełną przepychu podróż, czarterując jacht na Riwierze Francuskiej, zanurzając się w blasku jednego z najbardziej prestiżowych miejsc w Europie. Od początku XX wieku Riwiera Francuska przyciąga bogatych i sławnych, szczycąc się wybrzeżem, które jest ucieleśnieniem najbardziej malowniczych krajobrazów Europy [4].\n\nZnana jako Lazurowe Wybrzeże, Riwiera Francuska jest pożądanym miejscem na luksusowe wakacje, gdzie zbiegają się pełne blichtru miasta, bogata historia i różnorodne rozkosze kulinarne. Od butików projektantów w Cannes po restauracje z gwiazdkami Michelin w Nicei, każde miasto emanuje własnym, niepowtarzalnym urokiem i czarem [4].\n\nLuksusowy czarter jachtu na Riwierze Francuskiej zapewnia niezapomniane wrażenia, dając swobodę odkrywania wykwintnych alei handlowych i jadania w ekskluzywnych lokalach w wolnym czasie. Przemierzaj tętniące życiem ulice St. Tropez, delektując się niespiesznym lunchem, zanim udasz się do zacisznej zatoczki na spokojne opalanie w całkowitej prywatności [4].\n\nUdaj się dalej na wschód do Monako, uosobienia elitarnego luksusu, gdzie supersamochody i superjachty współgrają w opulenckiej harmonii, a haute couture króluje niepodzielnie. Zainspirowana lazurowymi wodami, które urzekły artystyczne sławy takie jak Picasso i Cezanne, Riwiera Francuska zaprasza do odkrywania jej naturalnego piękna i dziedzictwa artystycznego [4].\n\nOprócz oferty kulturalnej i krajobrazowej, Riwiera Francuska może poszczycić się sceną kulinarną, która zachwyca najbardziej wybredne podniebienia. Delektuj się wystawnymi półmiskami owoców morza, wykwintną kuchnią prowansalską i wybornymi winami ze słynnych winnic. Aby przeżyć ostateczne doznania gastronomiczne, zjedz kolację w wysokiej klasy restauracjach, takich jak Le Louis XV-Alain Ducasse à l'Hôtel de Paris w Monako lub La Palme d'Or w Cannes, gdzie kulinarna doskonałość spotyka się z luksusowym wyrafinowaniem [4].\n\nDzięki połączeniu luksusu, kultury i gastronomii, czarter jachtu na Riwierze Francuskiej obiecuje niezapomnianą podróż do serca elegancji i wytworności [4]."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/french-riviera-1.jpg",
+        "/images/destinations/french-riviera-2.jpg",
+        "/images/destinations/french-riviera-3.jpg",
+        "/images/destinations/french-riviera-4.jpg"
+      ]
+    },
+    {
+      "id": "malta",
+      "slug": "malta",
+      "name": {
+        "en": "Malta",
+        "pl": "Malta"
+      },
+      "featured": false,
+      "image": "/images/destinations/malta-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "Situated at the heart of the Mediterranean Sea, the enchanting island trio of Malta, Gozo, and Comino has served as a vital nexus for sailors throughout the ages and remains a sought-after destination for discerning travelers. A Malta Yacht Charter presents the ultimate opportunity to discover the allure of these stunning islands.\n\nNestled 60 miles south of Sicily, Malta is renowned for its ancient megalithic temples, intricate Hypogeums, and fortified cities adorned with towering walls and awe-inspiring architecture. Such is the historical richness of Malta that its capital, Valletta, stands proudly as a UNESCO World Heritage Site.\n\nHowever, beyond its historical tapestry, Malta boasts a vibrant yachting scene. Revel in the vibrant ambiance of Portomaso Marina, where the allure of cappuccinos rivals that of Italy's finest, before retreating to the lavish comforts of your private yacht.\n\nExperience the vibrant nightlife of Paceville, reminiscent of Barcelona but with an unassuming charm. Delight in exquisite dining options around the Grand Harbour, Europe’s largest natural harbor, framed by magnificent limestone fortifications. Don't miss the opportunity to savor a fenkata during your private yacht charter in Malta, a traditional rabbit stew infused with garlic.\n\nVenture out to sea to escape the summer heat and uncover secluded beaches and the hauntingly beautiful landscapes of weather-beaten limestone. Drop anchor offshore to explore captivating shipwrecks, navigate through mysterious caves, and indulge in some leisurely fishing off the back of your yacht. Alternatively, seek solace in the tranquility of Selmun or St. Paul’s Bay, where secluded beach strolls and idyllic countryside vistas await, adorned with enchanting wildflowers.\n\nAnd let's not forget the culinary delights awaiting you on your Maltese adventure. Sample fresh seafood delicacies, tantalizing local cuisine, and exquisite wines as you embark on a gastronomic journey infused with Mediterranean flavors. From traditional Maltese dishes to gourmet dining experiences, your Malta yacht charter promises to tantalize your taste buds and awaken your senses to the culinary delights of the region.",
+        "pl": "Położone w samym sercu Morza Śródziemnego, urzekające trio wysp: Malta, Gozo i Comino, przez wieki służyło jako kluczowy węzeł dla żeglarzy i pozostaje poszukiwanym celem dla wymagających podróżników. Czarter jachtu na Malcie stwarza ostateczną okazję do odkrycia uroku tych oszałamiających wysp [5].\n\nUsytuowana 60 mil na południe od Sycylii, Malta słynie ze starożytnych świątyń megalitycznych, misternych Hypogeów i warownych miast ozdobionych potężnymi murami i budzącą podziw architekturą. Historyczne bogactwo Malty jest tak wielkie, że jej stolica, Valletta, dumnie figuruje na Liście Światowego Dziedzictwa UNESCO [5].\n\nJednak poza swoim historycznym gobelinem, Malta może poszczycić się tętniącą życiem sceną żeglarską. Rozkoszuj się żywiołową atmosferą Portomaso Marina, gdzie urok cappuccino rywalizuje z najlepszymi włoskimi kawiarniami, zanim udasz się na spoczynek w luksusowych wnętrzach swojego prywatnego jachtu [5].\n\nDoświadcz tętniącego życiem nocnego życia Paceville, przypominającego Barcelonę, ale o bezpretensjonalnym uroku. Rozkoszuj się wykwintnymi opcjami gastronomicznymi wokół Wielkiego Portu (Grand Harbour), największego naturalnego portu w Europie, otoczonego wspaniałymi wapiennymi fortyfikacjami. Podczas prywatnego czarteru jachtu na Malcie nie przegap okazji, aby spróbować fenkata, tradycyjnego gulaszu z królika z dodatkiem czosnku [5].\n\nWypłyń w morze, aby uciec przed letnim upałem i odkryć zaciszne plaże oraz przejmująco piękne krajobrazy smaganego pogodą wapienia. Rzuć kotwicę na morzu, aby odkrywać fascynujące wraki statków, nawigować przez tajemnicze jaskinie i oddać się relaksującemu wędkowaniu z rufy swojego jachtu. Alternatywnie, szukaj ukojenia w spokoju Selmun lub Zatoki św. Pawła, gdzie czekają spacery po zacisznych plażach i idylliczne wiejskie widoki, ozdobione urzekającymi polnymi kwiatami [5].\n\nI nie zapominajmy o kulinarnych rozkoszach czekających na Ciebie podczas maltańskiej przygody. Próbuj świeżych przysmaków z owoców morza, kuszącej lokalnej kuchni i wykwintnych win, wyruszając w gastronomiczną podróż przesyconą śródziemnomorskimi smakami. Od tradycyjnych dań maltańskich po wykwintne doznania kulinarne, czarter jachtu na Malcie obiecuje rozpieścić Twoje kubki smakowe i obudzić zmysły na kulinarne rozkosze regionu [5]."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/malta-1.jpg",
+        "/images/destinations/malta-2.jpg",
+        "/images/destinations/malta-3.jpg",
+        "/images/destinations/malta-4.jpg"
+      ]
+    },
+    {
+      "id": "gulf-of-naples",
+      "slug": "gulf-of-naples",
+      "name": {
+        "en": "Gulf of Naples",
+        "pl": "Zatoka Neapolitańska"
+      },
+      "featured": false,
+      "image": "/images/destinations/gulf-of-naples-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "Nestled within the embrace of history, the Gulf of Naples unfolds as a captivating haven adorned by the enchanting islands of Capri, Ischia, and Procida, beckoning travelers to immerse themselves in a world of timeless monuments, scenic vistas, and the essence of Italian life.\n\nAs the heart of the Campania region, Naples proudly boasts its status as a UNESCO World Heritage Site, renowned for its vibrant culture, rich history, and mouthwatering cuisine. Serving as the perfect launching point for a yacht charter adventure, Naples opens doors to unparalleled experiences.\n\nBeyond Naples, the allure of Ischia's thermal baths and the glamour of Capri await, easily accessible by yacht. Meanwhile, Sorrento and its neighboring peninsula offer a delightful blend of tranquil anchorages and lively urban hubs.\n\nThe region is a treasure trove of archaeological marvels, with countless sites waiting to be explored, each echoing the tales of bygone eras. For nature enthusiasts, the majestic Vesuvius National Park provides endless opportunities for adventure, with panoramic views and hiking trails to explore.\n\nAnd when it comes to culture and cuisine, the Gulf of Naples is a culinary paradise. Naples, famous for its pizza and pasta, tantalizes taste buds with authentic flavors found in its vibrant street markets and fine dining establishments. Each island and coastal town within the Gulf of Naples boasts its own culinary traditions, promising a delightful journey through the region's cultural heritage and gastronomic diversity. Whether indulging in freshly caught seafood in Ischia, savoring traditional dishes in Capri, or dining al fresco in Sorrento, every bite is a revelation, offering a true taste of the region's richness and culinary charm.",
+        "pl": "Zatoka Neapolitańska, otulona historią, roztacza się jako urzekająca przystań ozdobiona czarującymi wyspami Capri, Ischia i Procida, zapraszając podróżnych do zanurzenia się w świecie ponadczasowych zabytków, malowniczych widoków i esencji włoskiego życia [6].\n\nJako serce regionu Kampania, Neapol dumnie szczyci się statusem obiektu z listy światowego dziedzictwa UNESCO, słynącego z tętniącej życiem kultury, bogatej historii i apetycznej kuchni. Służąc jako idealny punkt startowy dla przygody z czarterem jachtu, Neapol otwiera drzwi do niezrównanych doświadczeń [6].\n\nPoza Neapolem czeka urok termalnych kąpielisk Ischii i blichtr Capri, łatwo dostępne jachtem. Tymczasem Sorrento i sąsiedni półwysep oferują zachwycającą mieszankę spokojnych kotwicowisk i tętniących życiem ośrodków miejskich [6].\n\nRegion ten jest skarbnicą archeologicznych cudów, z niezliczonymi miejscami czekającymi na odkrycie, z których każde echem odbija opowieści minionych epok. Dla entuzjastów przyrody majestatyczny Park Narodowy Wezuwiusza zapewnia nieskończone możliwości przygody, z panoramicznymi widokami i szlakami turystycznymi do odkrycia [6].\n\nA jeśli chodzi o kulturę i kuchnię, Zatoka Neapolitańska jest kulinarnym rajem. Neapol, słynący z pizzy i makaronu, drażni kubki smakowe autentycznymi smakami, które można znaleźć na tętniących życiem ulicznych targach i w wykwintnych restauracjach. Każda wyspa i nadmorskie miasteczko w Zatoce Neapolitańskiej szczyci się własnymi tradycjami kulinarnymi, obiecując zachwycającą podróż przez dziedzictwo kulturowe i różnorodność gastronomiczną regionu. Niezależnie od tego, czy delektujesz się świeżo złowionymi owocami morza na Ischii, tradycyjnymi potrawami na Capri, czy obiadem na świeżym powietrzu w Sorrento, każdy kęs jest objawieniem, oferującym prawdziwy smak bogactwa i kulinarnego uroku regionu [6]."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/gulf-of-naples-1.jpg",
+        "/images/destinations/gulf-of-naples-2.jpg"
+      ]
+    },
+    {
+      "id": "ligurian-coast",
+      "slug": "ligurian-coast",
+      "name": {
+        "en": "The Ligurian Coast",
+        "pl": "Wybrzeże Liguryjskie"
+      },
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1623090255594-5a93f5bfc184?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "thumbnail": "",
+      "description": {
+        "en": "A yacht charter in Liguria along the Italian Riviera is like stepping into a romantic dream. With its stunning coastline, pleasant weather, delicious food, and rich culture, an Italian Riviera yacht charter promises an unforgettable experience.\n\nThe charm of ancient fishing ports and scenic landscapes adds to the allure of this captivating destination. From the laid-back lifestyle to the picturesque coastal towns, every moment on your luxury yacht feels like a journey through elegance and relaxation.\n\nThe Italian Riviera stretches along the coastline of Liguria, nestled between Tuscany and the French Côte d'Azur. Here, narrow beaches line the coves, framed by towering cliffs that plunge into the crystal-clear waters. As you sail, you'll encounter bustling seaside towns that exude charm and sophistication, all from the comfort of your own private yacht.\n\nA highlight of a Liguria yacht charter is exploring the Cinque Terre, a collection of five enchanting coastal villages designated as a UNESCO World Cultural Heritage site. Take a hike between these colorful villages to truly immerse yourself in the region's beauty.\n\nDon't miss the chance to spend a romantic afternoon in Portofino, often called the \"harbor of 65 colors.\" This picturesque port, nestled between the azure sea and emerald mountains, is a favorite among sailors and ranks among the world's most exclusive destinations for a berth or a delicious meal.",
+        "pl": "Czarter jachtu w Ligurii wzdłuż Włoskiej Riwiery jest jak wejście w romantyczny sen. Dzięki oszałamiającej linii brzegowej, przyjemnej pogodzie, pysznemu jedzeniu i bogatej kulturze, czarter jachtu na Riwierze Włoskiej obiecuje niezapomniane wrażenia [7].\n\nUrok starożytnych portów rybackich i malowniczych krajobrazów dodaje powabu temu urzekającemu miejscu. Od swobodnego stylu życia po malownicze nadmorskie miasteczka, każda chwila na luksusowym jachcie jest jak podróż przez elegancję i relaks [7].\n\nRiwiera Włoska rozciąga się wzdłuż wybrzeża Ligurii, położona między Toskanią a francuskim Lazurowym Wybrzeżem. Tutaj wąskie plaże wyścielają zatoczki, otoczone strzelistymi klifami, które wpadają do krystalicznie czystej wody. Żeglując, napotkasz tętniące życiem nadmorskie miasteczka, które emanują urokiem i wyrafinowaniem, a wszystko to z wygodnego pokładu własnego prywatnego jachtu [7].\n\nNajważniejszym punktem czarteru jachtu w Ligurii jest zwiedzanie Cinque Terre, zbioru pięciu czarujących nadmorskich wiosek wpisanych na Listę Światowego Dziedzictwa Kulturowego UNESCO. Wybierz się na wędrówkę między tymi kolorowymi wioskami, aby naprawdę zanurzyć się w pięknie regionu [7].\n\nNie przegap okazji na spędzenie romantycznego popołudnia w Portofino, często nazywanym „portem 65 kolorów”. Ten malowniczy port, położony między lazurowym morzem a szmaragdowymi górami, jest ulubionym miejscem żeglarzy i zalicza się do najbardziej ekskluzywnych miejsc na świecie na cumowanie lub pyszny posiłek [7]."
+      },
+      "subDestinations": []
+    },
+    {
+      "id": "spain",
+      "slug": "spain",
+      "name": {
+        "en": "Spain",
+        "pl": "Hiszpania"
+      },
+      "featured": false,
+      "image": "/images/destinations/spain-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "When it comes to sailing on a luxurious private yacht, Spain stands out as a dream destination. Its vibrant culture, delicious food, and stunning coastlines make it a top choice for travelers seeking unforgettable experiences. And if you're looking for something truly special, Catalonia is the perfect starting point.\n\nEmbrace the relaxed vibe of Catalonia, where you can immerse yourself in its welcoming culture and explore its natural wonders. Take a breathtaking hot air balloon ride over La Garrotxa Volcanic Zone Natural Park, where you'll be treated to panoramic views of volcanic cones and lava flows. Or step back in time with a tour of Besalu, a beautifully preserved medieval town filled with charming churches and historic buildings that offer a glimpse into the region's fascinating history.\n\nWhile summer is the busiest time for yacht charters in Spain, autumn offers its own allure. The weather is still pleasant, the seas are warm, and the crowds are thinner, making it the perfect time to explore without the hustle and bustle of peak season.\n\nWhether you're seeking thrills, relaxation, or a bit of both, a luxury yacht charter in Spain promises unforgettable adventures. From admiring the surreal architecture of Antoni Gaudí to cruising to the Balearic Islands, every moment on board will be filled with surprises and memories to cherish for a lifetime.",
+        "pl": "Jeśli chodzi o żeglowanie na luksusowym prywatnym jachcie, Hiszpania wyróżnia się jako wymarzone miejsce. Jej tętniąca życiem kultura, pyszne jedzenie i oszałamiające wybrzeża sprawiają, że jest to najlepszy wybór dla podróżnych poszukujących niezapomnianych wrażeń. A jeśli szukasz czegoś naprawdę wyjątkowego, Katalonia jest idealnym punktem startowym [8].\n\nPoczuj relaksującą atmosferę Katalonii, gdzie możesz zanurzyć się w jej gościnnej kulturze i odkrywać jej cuda natury. Wybierz się na zapierający dech w piersiach lot balonem nad Parkiem Naturalnym Strefy Wulkanicznej La Garrotxa, gdzie będziesz podziwiać panoramiczne widoki stożków wulkanicznych i zastygłych law. Lub cofnij się w czasie, zwiedzając Besalu, pięknie zachowane średniowieczne miasto wypełnione urokliwymi kościołami i zabytkowymi budynkami, które oferują wgląd w fascynującą historię regionu [8].\n\nPodczas gdy lato jest najbardziej pracowitym okresem dla czarterów jachtów w Hiszpanii, jesień oferuje swój własny urok. Pogoda jest nadal przyjemna, morza ciepłe, a tłumy mniejsze, co czyni ten czas idealnym na zwiedzanie bez zgiełku szczytu sezonu [8].\n\nNiezależnie od tego, czy szukasz dreszczyku emocji, relaksu, czy trochę jednego i drugiego, luksusowy czarter jachtu w Hiszpanii obiecuje niezapomniane przygody. Od podziwiania surrealistycznej architektury Antoniego Gaudiego po rejs na Baleary, każda chwila na pokładzie będzie wypełniona niespodziankami i wspomnieniami, które będziesz pielęgnować przez całe życie [8]."
+      },
+      "subDestinations": [
+        {
+          "id": "barcelona",
+          "slug": "barcelona",
+          "name": {
+            "en": "Barcelona",
+            "pl": "Barcelona"
+          },
+          "image": "",
+          "description": {
+            "en": "No Catalonia trip is complete without Barcelona, a bustling yachting hub inviting you to soak in its vibrant culture. From priceless art by Picasso and Gaudi to unforgettable dining experiences at Michelin-starred restaurants like Besta, the city delights. After a leisurely morning onboard, stroll Las Ramblas' tree-lined streets to immerse yourself in Catalan culture and explore tempting restaurants, galleries, and shops.\n\nA crewed luxury yacht charter in Spain opens doors to endless discoveries. Don't miss Barcelona's Sagrada Familia cathedral, Michelin-starred dining, and renowned nightlife. For a luxurious retreat, Vilanova Grand Marina offers impeccable facilities for superyachts.",
+            "pl": "Żadna wycieczka do Katalonii nie jest kompletna bez Barcelony, tętniącego życiem węzła żeglarskiego, zapraszającego do chłonięcia jej żywiołowej kultury. Od bezcennej sztuki Picassa i Gaudiego po niezapomniane doznania kulinarne w restauracjach z gwiazdkami Michelin, takich jak Besta, miasto zachwyca [9]. Po spokojnym poranku na pokładzie, przespaceruj się zadrzewionymi ulicami Las Ramblas, aby zanurzyć się w katalońskiej kulturze i odkryć kuszące restauracje, galerie i sklepy [9].\n\nLuksusowy czarter jachtu z załogą w Hiszpanii otwiera drzwi do nieskończonych odkryć. Nie przegap barcelońskiej katedry Sagrada Familia, posiłków w restauracjach z gwiazdkami Michelin i słynnego życia nocnego. Dla luksusowego wypoczynku, Vilanova Grand Marina oferuje nienaganne udogodnienia dla superjachtów [9]."
+          }
+        },
+        {
+          "id": "valencia",
+          "slug": "valencia",
+          "name": {
+            "en": "Valencia",
+            "pl": "Walencja"
+          },
+          "image": "",
+          "description": {
+            "en": "For those craving luxury, Valencia is a revelation. Once an ancient Mediterranean port, it now boasts grand modern architecture. Remodeled for the 32nd America's Cup, the port gleams, while medieval charm still graces the old city, seen in landmarks like San Miguel de Los Reyes Monastery and ancient Towers of the Medieval city offering breathtaking views of the Mediterranean Sea.\n\nValencia is a hub of sports, gastronomy, and nightlife. Alongside popular Las Arenas beaches lie the Valencia Marina, home to upscale restaurants and berthing for superyachts. Known for its vibrant festivals, visit in March for the thrilling Las Fallas festival or experience the intense Holy Week celebrations. Valencia promises a blend of history, culture, and excitement during your luxury yacht charter in Spain.",
+            "pl": "Dla tych, którzy pragną luksusu, Walencja jest objawieniem. Niegdyś starożytny port śródziemnomorski, teraz szczyci się wspaniałą nowoczesną architekturą. Przebudowany na 32. Puchar Ameryki port lśni, podczas gdy średniowieczny urok wciąż zdobi stare miasto, widoczny w zabytkach takich jak klasztor San Miguel de Los Reyes i starożytne wieże średniowiecznego miasta, oferujące zapierające dech w piersiach widoki na Morze Śródziemne [10].\n\nWalencja to centrum sportu, gastronomii i życia nocnego. Obok popularnych plaż Las Arenas znajduje się Valencia Marina, dom dla ekskluzywnych restauracji i miejsc cumowania dla superjachtów. Znana z tętniących życiem festiwali – odwiedź ją w marcu na ekscytujący festiwal Las Fallas lub przeżyj intensywne obchody Wielkiego Tygodnia. Walencja obiecuje mieszankę historii, kultury i emocji podczas luksusowego czarteru jachtu w Hiszpanii [10]."
+          }
+        }
+      ],
+      "gallery": [
+        "/images/destinations/spain-1.jpg",
+        "/images/destinations/spain-2.jpg",
+        "/images/destinations/spain-3.jpg",
+        "/images/destinations/spain-4.jpg"
+      ]
+    },
+    {
+      "id": "balearic-islands",
+      "slug": "balearic-islands",
+      "name": {
+        "en": "Balearic Islands",
+        "pl": "Baleary"
+      },
+      "featured": false,
+      "image": "/images/destinations/balearic-islands-1.jpg",
+      "thumbnail": "",
+      "description": {
+        "en": "Ah, the Balearic Islands – Mallorca, Ibiza, Menorca, and Formentera – a dreamy escape for a private motor yacht charter. With 1,723 km of coastline, these islands boast sun-kissed beaches, sapphire waters, and more sunshine than anywhere else. Their beauty is unmatched, offering pristine beaches and stunning coastlines.\n\nWhile known for Mediterranean parties, the Balearics offer so much more. Relax with sunset yoga on Formentera, or ride the waves off Playa de Llevant. Explore Menorca's serene coastline by yacht or bike along its shores. Discover Deià, Mallorca's hilltop haven for artists, or explore hidden coves accessible only by boat. And when it's time for excitement, join Ibiza's elite for nights of dancing under the stars.\n\nChoose from 375 beaches like Cala Bóquer or Playa de Ses Illetes, where your yacht is your private beach club.\n\nWith colorful fishing boats, chic boutiques, tapas bars, and Michelin-starred restaurants, each island is a world of its own. From UNESCO sites to culinary delights, the Balearic Islands offer a diverse and unforgettable experience on any luxury yacht charter in Spain.\n\nAnd as the sun dips below the horizon, gather on deck for a feast of Mediterranean flavors, a toast to the day's adventures, and the promise of tomorrow's discoveries. Don't miss out on dining at one of the Michelin-starred restaurants nestled along the shores, offering a gastronomic journey through the flavors of the Balearic Islands.",
+        "pl": "Ach, Baleary – Majorka, Ibiza, Minorka i Formentera – wymarzona ucieczka na prywatny czarter jachtu motorowego. Z linią brzegową o długości 1723 km, wyspy te szczycą się skąpanymi w słońcu plażami, szafirowymi wodami i większą ilością słońca niż gdziekolwiek indziej. Ich piękno jest niezrównane, oferując dziewicze plaże i oszałamiające wybrzeża [11].\n\nChoć znane ze śródziemnomorskich imprez, Baleary oferują o wiele więcej. Zrelaksuj się podczas jogi o zachodzie słońca na Formenterze lub ujeżdżaj fale przy Playa de Llevant. Odkrywaj spokojne wybrzeże Minorki jachtem lub rowerem wzdłuż jej brzegów. Odkryj Deià, położoną na wzgórzu przystań artystów na Majorce, lub eksploruj ukryte zatoczki dostępne tylko łodzią. A kiedy nadejdzie czas na emocje, dołącz do elity Ibizy na nocne tańce pod gwiazdami [11].\n\nWybieraj spośród 375 plaż, takich jak Cala Bóquer czy Playa de Ses Illetes, gdzie Twój jacht jest Twoim prywatnym klubem plażowym [11].\n\nDzięki kolorowym łodziom rybackim, szykownym butikom, barom tapas i restauracjom z gwiazdkami Michelin, każda wyspa jest światem samym w sobie. Od miejsc z listy UNESCO po kulinarne rozkosze, Baleary oferują różnorodne i niezapomniane wrażenia podczas każdego luksusowego czarteru jachtu w Hiszpanii [11].\n\nA gdy słońce chowa się za horyzontem, zbierzcie się na pokładzie na ucztę śródziemnomorskich smaków, toast za przygody dnia i obietnicę jutrzejszych odkryć. Nie przegap okazji na posiłek w jednej z restauracji z gwiazdkami Michelin usytuowanych wzdłuż wybrzeża, oferujących gastronomiczną podróż przez smaki Balearów [11]."
+      },
+      "subDestinations": [],
+      "gallery": [
+        "/images/destinations/balearic-islands-1.jpg",
+        "/images/destinations/balearic-islands-2.jpg",
+        "/images/destinations/balearic-islands-3.jpg",
+        "/images/destinations/balearic-islands-4.jpg"
+      ]
+    }
+  ]
+}

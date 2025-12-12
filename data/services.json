@@ -1,0 +1,214 @@
+{
+  "services": [
+    {
+      "id": "yacht-sales",
+      "slug": "yacht-sales",
+      "title": {
+        "en": "Yacht Sales",
+        "pl": "Sprzedaż Jachtów"
+      },
+      "description": {
+        "en": "Our yacht sales service offers an exclusive portfolio of the finest motor and sailing yachts. We guide you through every step of purchasing your dream yacht, from initial selection to final delivery, ensuring a seamless and professional experience.",
+        "pl": "Nasza usługa sprzedaży jachtów oferuje ekskluzywne portfolio najlepszych jachtów motorowych i żaglowych. Prowadzimy Cię przez każdy etap zakupu Twojego wymarzonego jachtu, od wstępnego wyboru po ostateczną dostawę, zapewniając bezproblemowe i profesjonalne doświadczenie."
+      },
+      "icon": "ship",
+      "featured": true,
+      "features": {
+        "en": [
+          "Exclusive yacht portfolio",
+          "Market analysis and valuation",
+          "Legal and administrative support",
+          "Survey and sea trial coordination",
+          "After-sales service and support"
+        ],
+        "pl": [
+          "Ekskluzywne portfolio jachtów",
+          "Analiza rynku i wycena",
+          "Wsparcie prawne i administracyjne",
+          "Koordynacja przeglądów i prób morskich",
+          "Serwis i wsparcie po sprzedaży"
+        ]
+      }
+    },
+    {
+      "id": "yacht-charter",
+      "slug": "yacht-charter",
+      "title": {
+        "en": "Yacht Charter",
+        "pl": "Czarter Jachtów"
+      },
+      "description": {
+        "en": "Experience luxury yachting without ownership through our bespoke charter services. We offer a curated selection of premium yachts in the world's most beautiful destinations, with personalized itineraries tailored to your preferences.",
+        "pl": "Doświadcz luksusowego jachtingu bez własności dzięki naszym dostosowanym usługom czarterowym. Oferujemy wyselekcjonowaną kolekcję premium jachtów w najpiękniejszych miejscach na świecie, z spersonalizowanymi programami dostosowanymi do Twoich preferencji."
+      },
+      "icon": "anchor",
+      "featured": true,
+      "features": {
+        "en": [
+          "Personalized itinerary planning",
+          "Professional crew selection",
+          "Concierge services",
+          "Flexible booking options",
+          "Worldwide destination coverage"
+        ],
+        "pl": [
+          "Spersonalizowane planowanie tras",
+          "Profesjonalny dobór załogi",
+          "Usługi concierge",
+          "Elastyczne opcje rezerwacji",
+          "Zasięg w miejscach na całym świecie"
+        ]
+      }
+    },
+    {
+      "id": "yacht-management",
+      "slug": "yacht-management",
+      "title": {
+        "en": "Yacht Management",
+        "pl": "Zarządzanie Jachtami"
+      },
+      "description": {
+        "en": "Comprehensive yacht management services ensuring your vessel operates at peak performance. From technical maintenance to crew management and administrative tasks, we handle every aspect of yacht ownership, allowing you to focus solely on enjoyment.",
+        "pl": "Kompleksowe usługi zarządzania jachtami zapewniające, że Twój statek działa na najwyższym poziomie. Od konserwacji technicznej po zarządzanie załogą i zadania administracyjne, zajmujemy się każdym aspektem posiadania jachtu, pozwalając Ci skupić się wyłącznie na przyjemności."
+      },
+      "icon": "briefcase",
+      "featured": true,
+      "features": {
+        "en": [
+          "Technical maintenance oversight",
+          "Crew recruitment and management",
+          "Financial administration",
+          "Insurance and compliance",
+          "24/7 support and monitoring"
+        ],
+        "pl": [
+          "Nadzór nad konserwacją techniczną",
+          "Rekrutacja i zarządzanie załogą",
+          "Administracja finansowa",
+          "Ubezpieczenia i zgodność z przepisami",
+          "Wsparcie i monitoring 24/7"
+        ]
+      }
+    },
+    {
+      "id": "crew-selection",
+      "slug": "crew-selection",
+      "title": {
+        "en": "Crew Selection",
+        "pl": "Wybór Załogi"
+      },
+      "description": {
+        "en": "Finding the perfect crew is essential for an exceptional yachting experience. Our professional recruitment service matches highly qualified, experienced crew members to your specific requirements and yacht specifications.",
+        "pl": "Znalezienie idealnej załogi jest niezbędne dla wyjątkowego doświadczenia jachtingowego. Nasza profesjonalna usługa rekrutacyjna dopasowuje wysoko wykwalifikowanych, doświadczonych członków załogi do Twoich konkretnych wymagań i specyfikacji jachtu."
+      },
+      "icon": "users",
+      "featured": false,
+      "features": {
+        "en": [
+          "Comprehensive vetting process",
+          "Background and reference checks",
+          "Skill assessment and certifications",
+          "Personality matching",
+          "Ongoing training support"
+        ],
+        "pl": [
+          "Kompleksowy proces weryfikacji",
+          "Sprawdzanie przeszłości i referencji",
+          "Ocena umiejętności i certyfikatów",
+          "Dopasowanie osobowości",
+          "Bieżące wsparcie szkoleniowe"
+        ]
+      }
+    },
+    {
+      "id": "legal-admin",
+      "slug": "legal-admin",
+      "title": {
+        "en": "Legal & Administrative Support",
+        "pl": "Wsparcie Prawne i Administracyjne"
+      },
+      "description": {
+        "en": "Navigate the complex world of yacht ownership with our expert legal and administrative services. We handle all regulatory requirements, documentation, and compliance matters, ensuring peace of mind for yacht owners.",
+        "pl": "Poruszaj się po złożonym świecie własności jachtów dzięki naszym ekspertom w zakresie usług prawnych i administracyjnych. Zajmujemy się wszystkimi wymogami regulacyjnymi, dokumentacją i sprawami zgodności, zapewniając spokój ducha właścicielom jachtów."
+      },
+      "icon": "shield",
+      "featured": false,
+      "features": {
+        "en": [
+          "VAT and tax optimization",
+          "Charter license management",
+          "Flag state registration",
+          "Crew employment contracts",
+          "Regulatory compliance"
+        ],
+        "pl": [
+          "Optymalizacja VAT i podatków",
+          "Zarządzanie licencjami czarterowymi",
+          "Rejestracja pod banderą",
+          "Umowy o pracę dla załogi",
+          "Zgodność z przepisami"
+        ]
+      }
+    },
+    {
+      "id": "marketing-content",
+      "slug": "marketing-content",
+      "title": {
+        "en": "Marketing & Content Creation",
+        "pl": "Marketing i Tworzenie Treści"
+      },
+      "description": {
+        "en": "Maximize your yacht's visibility and charter potential with our professional marketing services. We create stunning visual content, manage multi-channel campaigns, and ensure your yacht reaches the right audience worldwide.",
+        "pl": "Zmaksymalizuj widoczność swojego jachtu i potencjał czarterowy dzięki naszym profesjonalnym usługom marketingowym. Tworzymy oszałamiające treści wizualne, zarządzamy kampaniami wielokanałowymi i zapewniamy, że Twój jacht dotrze do właściwej publiczności na całym świecie."
+      },
+      "icon": "megaphone",
+      "featured": false,
+      "features": {
+        "en": [
+          "Professional photography and videography",
+          "Social media management",
+          "Website and brochure design",
+          "Multi-platform advertising",
+          "Analytics and performance tracking"
+        ],
+        "pl": [
+          "Profesjonalna fotografia i wideografia",
+          "Zarządzanie mediami społecznościowymi",
+          "Projektowanie stron internetowych i broszur",
+          "Reklama na wielu platformach",
+          "Analityka i śledzenie wydajności"
+        ]
+      }
+    },
+    {
+      "id": "boat-shows-events",
+      "slug": "boat-shows-events",
+      "title": {
+        "en": "Boat Shows & Events",
+        "pl": "Targi Łodzi i Wydarzenia"
+      },
+      "description": {
+        "en": "Connect with potential clients and showcase your yacht at the world's most prestigious boat shows and yachting events. We handle all logistics, coordination, and presentation to ensure maximum impact and return on investment.",
+        "pl": "Połącz się z potencjalnymi klientami i zaprezentuj swój jacht na najbardziej prestiżowych targach łodzi i wydarzeniach jachtingowych na świecie. Zajmujemy się całą logistyką, koordynacją i prezentacją, aby zapewnić maksymalny wpływ i zwrot z inwestycji."
+      },
+      "icon": "calendar",
+      "featured": false,
+      "features": {
+        "en": [
+          "Boat show participation coordination",
+          "Stand design and setup",
+          "Marketing materials preparation",
+          "Client meetings and networking",
+          "Post-event follow-up"
+        ],
+        "pl": [
+          "Koordynacja uczestnictwa w targach",
+          "Projekt i ustawienie stoiska",
+          "Przygotowanie materiałów marketingowych",
+          "Spotkania z klientami i networking",
+          "Kontynuacja po wydarzeniu"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "home": "Home",
+    "charters": "Charters",
+    "destinations": "Destinations",
+    "services": "Services",
+    "events": "Events",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "viewDetails": "View Details",
+    "contactUs": "Contact Us",
+    "exploreYachts": "Explore Yachts",
+    "getQuote": "Get a Quote",
+    "bookNow": "Book Now",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "currency": "EUR",
+    "perWeek": "per week",
+    "from": "From",
+    "length": "Length",
+    "cabins": "Cabins",
+    "guests": "Guests",
+    "crew": "Crew",
+    "forSale": "For Sale",
+    "forCharter": "For Charter",
+    "featured": "Featured"
+  },
+  "home": {
+    "hero": {
+      "title": "Luxury Yachting",
+      "subtitle": "Experience the Ultimate Maritime Adventure",
+      "description": "Discover exceptional yachts in the world's most beautiful destinations"
+    },
+    "about": {
+      "title": "About Global Sea",
+      "description1": "At Global Sea, we specialize in luxury yacht charter and sales, offering an unparalleled selection of premium vessels across the world's most beautiful destinations. With years of expertise in the maritime industry, we pride ourselves on delivering exceptional service and unforgettable experiences.",
+      "description2": "Whether you're seeking the perfect yacht for a Mediterranean adventure or looking to purchase your dream vessel, our dedicated team is committed to making your maritime dreams a reality. We handle every detail with precision and care, ensuring a seamless and luxurious experience.",
+      "feature1": {
+        "title": "Premium Fleet",
+        "desc": "Handpicked luxury yachts"
+      },
+      "feature2": {
+        "title": "Global Reach",
+        "desc": "Worldwide destinations"
+      },
+      "feature3": {
+        "title": "Expert Service",
+        "desc": "Professional crew & support"
+      }
+    },
+    "featuredYachts": {
+      "title": "Featured Yachts",
+      "subtitle": "Discover Our Premium Selection"
+    },
+    "destinations": {
+      "title": "Explore Destinations",
+      "subtitle": "Navigate the World's Most Beautiful Waters"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Complete Yachting Solutions"
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Global Sea",
+      "yearsExperience": "Years of Experience",
+      "yachtsAvailable": "Yachts Available",
+      "destinations": "Destinations",
+      "happyClients": "Happy Clients"
+    },
+    "partners": {
+      "title": "Our Partners",
+      "subtitle": "Trusted by Leading Yacht Manufacturers"
+    },
+    "cta": {
+      "title": "Ready to Start Your Journey?",
+      "subtitle": "Contact us today to find your perfect yacht",
+      "button": "Get in Touch"
+    }
+  },
+  "yachts": {
+    "title": "Our Yachts",
+    "subtitle": "Browse Our Exclusive Collection",
+    "filters": {
+      "all": "All Yachts",
+      "sale": "For Sale",
+      "charter": "For Charter",
+      "sortBy": "Sort By",
+      "priceAsc": "Price: Low to High",
+      "priceDesc": "Price: High to Low",
+      "lengthAsc": "Length: Short to Long",
+      "lengthDesc": "Length: Long to Short"
+    },
+    "specifications": "Specifications",
+    "amenities": "Amenities",
+    "description": "Description",
+    "contactForPrice": "Contact for Price",
+    "inquire": "Inquire About This Yacht"
+  },
+  "destinations": {
+    "title": "Destinations",
+    "subtitle": "Explore the World's Most Stunning Locations",
+    "highlights": "Highlights",
+    "popularRoutes": "Popular Routes",
+    "bestSeason": "Best Season",
+    "climate": "Climate",
+    "yachtsInDestination": "Yachts in This Destination"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive Yachting Solutions"
+  },
+  "events": {
+    "title": "Events",
+    "subtitle": "Join Us at Exclusive Yachting Events",
+    "upcoming": "Upcoming Events",
+    "past": "Past Events",
+    "register": "Register for Event"
+  },
+  "about": {
+    "title": "About Global Sea",
+    "subtitle": "Your Trusted Yachting Partner"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in Touch with Our Team",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Office Hours",
+      "followUs": "Follow Us"
+    },
+    "whatsapp": "Chat on WhatsApp"
+  },
+  "footer": {
+    "description": "Global Sea - Your premier partner for luxury yacht sales, charter, and management services worldwide.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact Information",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Subscribe to receive updates on new yachts and exclusive offers",
+      "placeholder": "Your email address",
+      "subscribe": "Subscribe",
+      "success": "Thank you for subscribing!",
+      "error": "Subscription failed. Please try again."
+    },
+    "copyright": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

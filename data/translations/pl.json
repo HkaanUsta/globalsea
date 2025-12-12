@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "home": "Strona Główna",
+    "charters": "Czarter",
+    "destinations": "Destynacje",
+    "services": "Usługi",
+    "events": "Wydarzenia",
+    "about": "O Nas",
+    "contact": "Kontakt"
+  },
+  "common": {
+    "learnMore": "Dowiedz się więcej",
+    "viewDetails": "Zobacz szczegóły",
+    "contactUs": "Skontaktuj się z nami",
+    "exploreYachts": "Przeglądaj jachty",
+    "getQuote": "Uzyskaj wycenę",
+    "bookNow": "Zarezerwuj teraz",
+    "readMore": "Czytaj więcej",
+    "viewAll": "Zobacz wszystko",
+    "currency": "EUR",
+    "perWeek": "tygodniowo",
+    "from": "Od",
+    "length": "Długość",
+    "cabins": "Kabiny",
+    "guests": "Goście",
+    "crew": "Załoga",
+    "forSale": "Na sprzedaż",
+    "forCharter": "Do czarteru",
+    "featured": "Wyróżnione"
+  },
+  "home": {
+    "hero": {
+      "title": "Luksusowe jachtowanie",
+      "subtitle": "Doświadcz najlepszej przygody morskiej",
+      "description": "Odkryj wyjątkowe jachty w najpiękniejszych miejscach na świecie"
+    },
+    "about": {
+      "title": "O Global Sea",
+      "description1": "W Global Sea specjalizujemy się w czarterze i sprzedaży luksusowych jachtów, oferując niezrównany wybór premium jednostek w najpiękniejszych destynacjach na świecie. Z wieloletnim doświadczeniem w branży morskiej, zapewniamy wyjątkową obsługę i niezapomniane wrażenia.",
+      "description2": "Niezależnie od tego, czy szukasz idealnego jachtu na śródziemnomorską przygodę, czy chcesz kupić swoją wymarzoną jednostkę, nasz dedykowany zespół jest gotowy spełnić Twoje morskie marzenia. Zajmujemy się każdym szczegółem z precyzją i troską, zapewniając bezproblemowe i luksusowe doświadczenie.",
+      "feature1": {
+        "title": "Flota Premium",
+        "desc": "Wyselekcjonowane luksusowe jachty"
+      },
+      "feature2": {
+        "title": "Globalny Zasięg",
+        "desc": "Destynacje na całym świecie"
+      },
+      "feature3": {
+        "title": "Fachowa Obsługa",
+        "desc": "Profesjonalna załoga i wsparcie"
+      }
+    },
+    "featuredYachts": {
+      "title": "Wyróżnione jachty",
+      "subtitle": "Odkryj naszą najlepszą selekcję"
+    },
+    "destinations": {
+      "title": "Odkryj destynacje",
+      "subtitle": "Żegluj po najpiękniejszych wodach świata"
+    },
+    "services": {
+      "title": "Nasze usługi",
+      "subtitle": "Kompleksowe rozwiązania jachtingowe"
+    },
+    "whyChooseUs": {
+      "title": "Dlaczego Global Sea",
+      "yearsExperience": "Lat doświadczenia",
+      "yachtsAvailable": "Dostępnych jachtów",
+      "destinations": "Destynacji",
+      "happyClients": "Zadowolonych klientów"
+    },
+    "partners": {
+      "title": "Nasi partnerzy",
+      "subtitle": "Zaufani przez wiodących producentów jachtów"
+    },
+    "cta": {
+      "title": "Gotowy, aby rozpocząć swoją podróż?",
+      "subtitle": "Skontaktuj się z nami już dziś, aby znaleźć idealny jacht",
+      "button": "Skontaktuj się"
+    }
+  },
+  "yachts": {
+    "title": "Nasze jachty",
+    "subtitle": "Przeglądaj naszą ekskluzywną kolekcję",
+    "filters": {
+      "all": "Wszystkie jachty",
+      "sale": "Na sprzedaż",
+      "charter": "Do czarteru",
+      "sortBy": "Sortuj według",
+      "priceAsc": "Cena: Od najniższej",
+      "priceDesc": "Cena: Od najwyższej",
+      "lengthAsc": "Długość: Od najkrótszego",
+      "lengthDesc": "Długość: Od najdłuższego"
+    },
+    "specifications": "Specyfikacje",
+    "amenities": "Udogodnienia",
+    "description": "Opis",
+    "contactForPrice": "Skontaktuj się w sprawie ceny",
+    "inquire": "Zapytaj o ten jacht"
+  },
+  "destinations": {
+    "title": "Destynacje",
+    "subtitle": "Odkryj najpiękniejsze miejsca na świecie",
+    "highlights": "Atrakcje",
+    "popularRoutes": "Popularne trasy",
+    "bestSeason": "Najlepszy sezon",
+    "climate": "Klimat",
+    "yachtsInDestination": "Jachty w tej destynacji"
+  },
+  "services": {
+    "title": "Nasze usługi",
+    "subtitle": "Kompleksowe rozwiązania jachtingowe"
+  },
+  "events": {
+    "title": "Wydarzenia",
+    "subtitle": "Dołącz do nas na ekskluzywnych wydarzeniach jachtingowych",
+    "upcoming": "Nadchodzące wydarzenia",
+    "past": "Przeszłe wydarzenia",
+    "register": "Zarejestruj się na wydarzenie"
+  },
+  "about": {
+    "title": "O Global Sea",
+    "subtitle": "Twój zaufany partner jachtingowy"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Skontaktuj się z naszym zespołem",
+    "form": {
+      "name": "Imię",
+      "email": "Email",
+      "phone": "Telefon",
+      "subject": "Temat",
+      "message": "Wiadomość",
+      "send": "Wyślij wiadomość",
+      "sending": "Wysyłanie...",
+      "success": "Wiadomość została wysłana!",
+      "error": "Nie udało się wysłać wiadomości. Spróbuj ponownie."
+    },
+    "info": {
+      "address": "Adres",
+      "phone": "Telefon",
+      "email": "Email",
+      "hours": "Godziny otwarcia",
+      "followUs": "Śledź nas"
+    },
+    "whatsapp": "Czat na WhatsApp"
+  },
+  "footer": {
+    "description": "Global Sea - Twój najlepszy partner w zakresie sprzedaży, czarteru i zarządzania luksusowymi jachtami na całym świecie.",
+    "quickLinks": "Szybkie linki",
+    "services": "Usługi",
+    "contact": "Informacje kontaktowe",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Zapisz się, aby otrzymywać aktualizacje o nowych jachtach i ekskluzywnych ofertach",
+      "placeholder": "Twój adres email",
+      "subscribe": "Zapisz się",
+      "success": "Dziękujemy za subskrypcję!",
+      "error": "Subskrypcja nie powiodła się. Spróbuj ponownie."
+    },
+    "copyright": "Wszelkie prawa zastrzeżone.",
+    "privacy": "Polityka prywatności",
+    "terms": "Warunki korzystania z usługi"
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "yachts": [
+    {
+      "id": "yacht-001",
+      "slug": "azure-dream",
+      "name": {
+        "en": "Azure Dream",
+        "pl": "Lazurowy Sen"
+      },
+      "featured": true,
+      "images": [
+        "/images/yachts/yacht-1.jpg",
+        "/images/yachts/yacht-3.jpg",
+        "/images/yachts/yacht-5.jpg",
+        "/images/yachts/yacht-7.jpg",
+        "/images/yachts/yacht-9.jpg"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?w=400&q=80",
+      "description": {
+        "en": "Experience unparalleled luxury aboard Azure Dream, a magnificent motor yacht designed for those who demand the finest.",
+        "pl": "Doświadcz niezrównanego luksusu na pokładzie Azure Dream, wspaniałego jachtu motorowego zaprojektowanego dla wymagających."
+      },
+      "specifications": {
+        "length": 45,
+        "lengthUnit": "m",
+        "cabins": 5,
+        "guests": 10,
+        "crew": 7,
+        "yearBuilt": 2020,
+        "builder": "Sanlorenzo",
+        "cruisingSpeed": 12,
+        "maxSpeed": 18,
+        "beam": 8.6,
+        "draft": 2.4
+      },
+      "amenities": [
+        "jacuzzi",
+        "jetski",
+        "wifi",
+        "airConditioning",
+        "waterToys",
+        "gym",
+        "beach-club",
+        "stabilizers"
+      ],
+      "destinations": [
+        "mediterranean",
+        "french-riviera"
+      ],
+      "pricing": {
+        "weeklyFrom": 85000,
+        "currency": "EUR",
+        "salePriceFrom": 12500000
+      },
+      "forSale": true,
+      "forCharter": true
+    },
+    {
+      "id": "yacht-002",
+      "slug": "ocean-pearl",
+      "name": {
+        "en": "Ocean Pearl",
+        "pl": "Perła Oceanu"
+      },
+      "featured": true,
+      "images": [
+        "/images/yachts/yacht-6.jpg",
+        "/images/yachts/yacht-8.jpg",
+        "/images/yachts/yacht-10.jpg",
+        "/images/yachts/yacht-12.jpg",
+        "/images/yachts/yacht-1.jpg"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1540946485063-a40da27545f8?w=400&q=80",
+      "description": {
+        "en": "A timeless classic combining elegant design with modern amenities for an unforgettable yachting experience.",
+        "pl": "Ponadczasowa klasyka łącząca elegancki design z nowoczesnymi udogodnieniami dla niezapomnianego doświadczenia."
+      },
+      "specifications": {
+        "length": 38,
+        "lengthUnit": "m",
+        "cabins": 4,
+        "guests": 8,
+        "crew": 5,
+        "yearBuilt": 2019,
+        "builder": "Princess Yachts",
+        "cruisingSpeed": 14,
+        "maxSpeed": 22,
+        "beam": 7.8,
+        "draft": 2.1
+      },
+      "amenities": [
+        "jacuzzi",
+        "wifi",
+        "airConditioning",
+        "waterToys",
+        "stabilizers",
+        "tender",
+        "snorkeling"
+      ],
+      "destinations": [
+        "mediterranean",
+        "greek-islands"
+      ],
+      "pricing": {
+        "weeklyFrom": 55000,
+        "currency": "EUR",
+        "salePriceFrom": 8200000
+      },
+      "forSale": true,
+      "forCharter": true
+    },
+    {
+      "id": "yacht-003",
+      "slug": "sun-seeker",
+      "name": {
+        "en": "Sun Seeker",
+        "pl": "Poszukiwacz Słońca"
+      },
+      "featured": true,
+      "images": [
+        "/images/yachts/yacht-3.jpg",
+        "/images/yachts/yacht-5.jpg",
+        "/images/yachts/yacht-7.jpg",
+        "/images/yachts/yacht-9.jpg",
+        "/images/yachts/yacht-6.jpg"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1566024287286-457247b70310?w=400&q=80",
+      "description": {
+        "en": "Perfect for sun-soaked adventures in the Mediterranean with spacious decks and luxurious amenities.",
+        "pl": "Idealny do słonecznych przygód na Morzu Śródziemnym z przestronnymi pokładami i luksusowymi udogodnieniami."
+      },
+      "specifications": {
+        "length": 30,
+        "lengthUnit": "m",
+        "cabins": 4,
+        "guests": 8,
+        "crew": 4,
+        "yearBuilt": 2021,
+        "builder": "Azimut",
+        "cruisingSpeed": 16,
+        "maxSpeed": 24,
+        "beam": 6.8,
+        "draft": 1.9
+      },
+      "amenities": [
+        "wifi",
+        "airConditioning",
+        "waterToys",
+        "jetski",
+        "paddleboard",
+        "snorkeling",
+        "diving"
+      ],
+      "destinations": [
+        "mediterranean",
+        "adriatic"
+      ],
+      "pricing": {
+        "weeklyFrom": 38000,
+        "currency": "EUR"
+      },
+      "forSale": false,
+      "forCharter": true
+    },
+    {
+      "id": "yacht-004",
+      "slug": "royal-elegance",
+      "name": {
+        "en": "Royal Elegance",
+        "pl": "Królewska Elegancja"
+      },
+      "featured": true,
+      "images": [
+        "/images/yachts/yacht-8.jpg",
+        "/images/yachts/yacht-10.jpg",
+        "/images/yachts/yacht-12.jpg",
+        "/images/yachts/yacht-1.jpg",
+        "/images/yachts/yacht-3.jpg"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1605281317010-fe5ffe798166?w=400&q=80",
+      "description": {
+        "en": "Experience royal treatment with this stunning yacht featuring exceptional craftsmanship and attention to detail.",
+        "pl": "Doświadcz królewskiego traktowania na tym wspaniałym jachcie z wyjątkowym rzemiosłem i dbałością o szczegóły."
+      },
+      "specifications": {
+        "length": 52,
+        "lengthUnit": "m",
+        "cabins": 6,
+        "guests": 12,
+        "crew": 9,
+        "yearBuilt": 2018,
+        "builder": "Benetti",
+        "cruisingSpeed": 11,
+        "maxSpeed": 16,
+        "beam": 9.2,
+        "draft": 2.8
+      },
+      "amenities": [
+        "jacuzzi",
+        "jetski",
+        "wifi",
+        "airConditioning",
+        "waterToys",
+        "gym",
+        "beach-club",
+        "stabilizers",
+        "tender"
+      ],
+      "destinations": [
+        "mediterranean",
+        "caribbean"
+      ],
+      "pricing": {
+        "weeklyFrom": 120000,
+        "currency": "EUR",
+        "salePriceFrom": 18500000
+      },
+      "forSale": true,
+      "forCharter": true
+    },
+    {
+      "id": "yacht-005",
+      "slug": "crystal-waters",
+      "name": {
+        "en": "Crystal Waters",
+        "pl": "Kryształowe Wody"
+      },
+      "featured": true,
+      "images": [
+        "/images/yachts/yacht-5.jpg",
+        "/images/yachts/yacht-7.jpg",
+        "/images/yachts/yacht-9.jpg",
+        "/images/yachts/yacht-6.jpg",
+        "/images/yachts/yacht-8.jpg"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400&q=80",
+      "description": {
+        "en": "Sleek and modern sailing yacht perfect for exploring hidden coves and pristine waters.",
+        "pl": "Elegancki i nowoczesny jacht żaglowy idealny do odkrywania ukrytych zatoczek i dziewiczych wód."
+      },
+      "specifications": {
+        "length": 25,
+        "lengthUnit": "m",
+        "cabins": 3,
+        "guests": 6,
+        "crew": 3,
+        "yearBuilt": 2022,
+        "builder": "Beneteau",
+        "cruisingSpeed": 8,
+        "maxSpeed": 12,
+        "beam": 5.9,
+        "draft": 2.5
+      },
+      "amenities": [
+        "wifi",
+        "airConditioning",
+        "snorkeling",
+        "diving",
+        "paddleboard",
+        "kayak",
+        "fishing"
+      ],
+      "destinations": [
+        "greek-islands",
+        "adriatic"
+      ],
+      "pricing": {
+        "weeklyFrom": 22000,
+        "currency": "EUR"
+      },
+      "forSale": false,
+      "forCharter": true
+    },
+    {
+      "id": "yacht-006",
+      "slug": "midnight-star",
+      "name": {
+        "en": "Midnight Star",
+        "pl": "Gwiazda Północy"
+      },
+      "featured": true,
+      "images": [
+        "/images/yachts/yacht-10.jpg",
+        "/images/yachts/yacht-12.jpg",
+        "/images/yachts/yacht-1.jpg",
+        "/images/yachts/yacht-3.jpg",
+        "/images/yachts/yacht-5.jpg"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&q=80",
+      "description": {
+        "en": "A stunning superyacht with contemporary design and state-of-the-art entertainment systems.",
+        "pl": "Oszałamiający superjacht o współczesnym designie i najnowocześniejszych systemach rozrywki."
+      },
+      "specifications": {
+        "length": 42,
+        "lengthUnit": "m",
+        "cabins": 5,
+        "guests": 10,
+        "crew": 6,
+        "yearBuilt": 2020,
+        "builder": "Ferretti",
+        "cruisingSpeed": 15,
+        "maxSpeed": 20,
+        "beam": 8.2,
+        "draft": 2.2
+      },
+      "amenities": [
+        "jacuzzi",
+        "jetski",
+        "wifi",
+        "airConditioning",
+        "waterToys",
+        "cinema",
+        "gym",
+        "stabilizers"
+      ],
+      "destinations": [
+        "french-riviera",
+        "mediterranean"
+      ],
+      "pricing": {
+        "weeklyFrom": 72000,
+        "currency": "EUR",
+        "salePriceFrom": 11200000
+      },
+      "forSale": true,
+      "forCharter": true
+    },
+    {
+      "id": "yacht-007",
+      "slug": "sapphire-seas",
+      "name": {
+        "en": "Sapphire Seas",
+        "pl": "Szafirowe Morza"
+      },
+      "featured": true,
+      "images": [
+        "/images/yachts/yacht-7.jpg",
+        "/images/yachts/yacht-9.jpg",
+        "/images/yachts/yacht-6.jpg",
+        "/images/yachts/yacht-8.jpg",
+        "/images/yachts/yacht-10.jpg"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1580541832626-2a7131ee809f?w=400&q=80",
+      "description": {
+        "en": "Luxury motor yacht with expansive sun decks and world-class amenities for the ultimate charter experience.",
+        "pl": "Luksusowy jacht motorowy z rozległymi pokładami słonecznymi i światowej klasy udogodnieniami."
+      },
+      "specifications": {
+        "length": 35,
+        "lengthUnit": "m",
+        "cabins": 4,
+        "guests": 8,
+        "crew": 5,
+        "yearBuilt": 2021,
+        "builder": "Sunseeker",
+        "cruisingSpeed": 18,
+        "maxSpeed": 26,
+        "beam": 7.5,
+        "draft": 2
+      },
+      "amenities": [
+        "jacuzzi",
+        "wifi",
+        "airConditioning",
+        "waterToys",
+        "jetski",
+        "stabilizers",
+        "tender",
+        "snorkeling"
+      ],
+      "destinations": [
+        "greek-islands",
+        "adriatic"
+      ],
+      "pricing": {
+        "weeklyFrom": 48000,
+        "currency": "EUR",
+        "salePriceFrom": 7800000
+      },
+      "forSale": true,
+      "forCharter": true
+    },
+    {
+      "id": "yacht-008",
+      "slug": "golden-horizon",
+      "name": {
+        "en": "Golden Horizon",
+        "pl": "Złoty Horyzont"
+      },
+      "featured": true,
+      "images": [
+        "/images/yachts/yacht-12.jpg",
+        "/images/yachts/yacht-1.jpg",
+        "/images/yachts/yacht-3.jpg",
+        "/images/yachts/yacht-5.jpg",
+        "/images/yachts/yacht-7.jpg"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1606122017369-d782bbb78f32?w=400&q=80",
+      "description": {
+        "en": "Elegant sailing yacht combining traditional craftsmanship with modern luxury and comfort.",
+        "pl": "Elegancki jacht żaglowy łączący tradycyjne rzemiosło z nowoczesnym luksusem i komfortem."
+      },
+      "specifications": {
+        "length": 28,
+        "lengthUnit": "m",
+        "cabins": 3,
+        "guests": 6,
+        "crew": 3,
+        "yearBuilt": 2022,
+        "builder": "Oyster",
+        "cruisingSpeed": 9,
+        "maxSpeed": 14,
+        "beam": 6.2,
+        "draft": 2.8
+      },
+      "amenities": [
+        "wifi",
+        "airConditioning",
+        "waterToys",
+        "paddleboard",
+        "snorkeling",
+        "fishing",
+        "kayak"
+      ],
+      "destinations": [
+        "mediterranean",
+        "adriatic"
+      ],
+      "pricing": {
+        "weeklyFrom": 32000,
+        "currency": "EUR"
+      },
+      "forSale": false,
+      "forCharter": true
+    },
+    {
+      "id": "yacht-009",
+      "slug": "serenity-wave",
+      "name": {
+        "en": "Serenity Wave",
+        "pl": "Fala Spokoju"
+      },
+      "featured": true,
+      "images": [
+        "/images/yachts/yacht-9.jpg",
+        "/images/yachts/yacht-6.jpg",
+        "/images/yachts/yacht-8.jpg",
+        "/images/yachts/yacht-10.jpg",
+        "/images/yachts/yacht-12.jpg"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?w=400&q=80",
+      "description": {
+        "en": "Modern catamaran offering spacious living areas and exceptional stability for comfortable cruising.",
+        "pl": "Nowoczesny katamaran oferujący przestronne przestrzenie mieszkalne i wyjątkową stabilność."
+      },
+      "specifications": {
+        "length": 22,
+        "lengthUnit": "m",
+        "cabins": 4,
+        "guests": 8,
+        "crew": 2,
+        "yearBuilt": 2023,
+        "builder": "Lagoon",
+        "cruisingSpeed": 8,
+        "maxSpeed": 12,
+        "beam": 10.5,
+        "draft": 1.3
+      },
+      "amenities": [
+        "wifi",
+        "airConditioning",
+        "waterToys",
+        "snorkeling",
+        "diving",
+        "paddleboard",
+        "kayak",
+        "fishing"
+      ],
+      "destinations": [
+        "greek-islands",
+        "caribbean"
+      ],
+      "pricing": {
+        "weeklyFrom": 28000,
+        "currency": "EUR"
+      },
+      "forSale": false,
+      "forCharter": true
+    }
+  ]
+}

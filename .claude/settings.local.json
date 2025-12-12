@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(npm install:*)",
+      "Bash(nul)",
+      "Bash(dir /s /b \"c:\\Users\\egeme\\OneDrive\\Desktop\\projects\\globalsea-new\")",
+      "Bash(findstr:*)",
+      "Bash(dir:*)",
+      "Bash(npm run download-images:*)",
+      "Bash(npm run build:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nImplement automatic image download system and integrate local images\n\n- Created TypeScript script to automatically download images from Unsplash\n- Downloaded 53 high-resolution (1920x1080) images organized by category:\n  * 9 yacht images for featured carousel and charters page\n  * 15 destination images (4 Mediterranean, 3 each for other destinations)\n  * 29 service images (8 for yacht management, 3 each for other services)\n- Updated yachts.json with downloaded yacht images\n- Updated destinations.json with local image paths and galleries\n- Updated services page.tsx with local hero images\n- Integrated images into all pages: homepage, charters, destinations, services\n- Fixed layout issues in About section and slider title positioning\n- All images stored locally in public/images/{category}/\n\n🤖 Generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git commit:*)",
+      "Bash(git config:*)",
+      "Bash(npm run download-destination-images:*)",
+      "Bash(npm run update-destination-paths:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
