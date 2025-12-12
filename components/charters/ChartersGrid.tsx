@@ -110,13 +110,6 @@ export default function ChartersGrid({ filters }: ChartersGridProps) {
                 <p className="text-[#FFB703] text-3xl md:text-4xl font-bold mb-6">
                   FROM €{yacht.pricing.weeklyFrom.toLocaleString()} / week
                 </p>
-                <motion.button
-                  className="bg-[#20B2AA] hover:bg-[#20B2AA]/90 text-white px-6 py-3 rounded-full font-semibold shadow-lg hover:shadow-xl transition-all duration-300"
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                >
-                  Contact for more details
-                </motion.button>
               </motion.div>
             </div>
           </motion.div>
