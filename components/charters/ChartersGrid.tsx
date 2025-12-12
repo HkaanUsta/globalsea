@@ -76,7 +76,6 @@ export default function ChartersGrid({ filters }: ChartersGridProps) {
         className="grid grid-cols-1 md:grid-cols-2 gap-0"
       >
         {filteredYachts.map((yacht, index) => (
-          <Link key={yacht.id} href={`/${localeParam}/charters/${yacht.slug}`}>
             <motion.div
               variants={item}
               className={`relative h-[600px] group overflow-hidden cursor-pointer ${
@@ -121,7 +120,6 @@ export default function ChartersGrid({ filters }: ChartersGridProps) {
               </motion.div>
             </div>
           </motion.div>
-          </Link>
         ))}
       </motion.div>
 

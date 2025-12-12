@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useRef } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { Play, Pause } from 'lucide-react';
 import { useTranslations } from 'next-intl';
 import Button from '@/components/shared/Button';
@@ -8,6 +8,7 @@ import { motion, useScroll, useTransform } from 'framer-motion';
 
 export default function Hero() {
   const [isPlaying, setIsPlaying] = useState(true);
+  const [isManualPause, setIsManualPause] = useState(false);
   const videoRef = useRef<HTMLVideoElement>(null);
   const containerRef = useRef<HTMLElement>(null);
   const t = useTranslations('home.hero');
@@ -22,12 +23,45 @@ export default function Hero() {
   const y = useTransform(scrollYProgress, [0, 1], ['0%', '50%']);
   const opacity = useTransform(scrollYProgress, [0, 0.5, 1], [1, 0.8, 0]);
 
+  // Intersection Observer to pause/play video based on visibility
+  useEffect(() => {
+    const video = videoRef.current;
+    if (!video) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting && !isManualPause) {
+            // Video is in viewport and wasn't manually paused
+            video.play();
+            setIsPlaying(true);
+          } else {
+            // Video is out of viewport
+            video.pause();
+            setIsPlaying(false);
+          }
+        });
+      },
+      {
+        threshold: 0.5, // Trigger when 50% of video is visible
+      }
+    );
+
+    observer.observe(video);
+
+    return () => {
+      observer.disconnect();
+    };
+  }, [isManualPause]);
+
   const toggleVideo = () => {
     if (videoRef.current) {
       if (isPlaying) {
         videoRef.current.pause();
+        setIsManualPause(true);
       } else {
         videoRef.current.play();
+        setIsManualPause(false);
       }
       setIsPlaying(!isPlaying);
     }

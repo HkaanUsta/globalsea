@@ -56,7 +56,7 @@ export default function ChartersHero({ filters, setFilters }: ChartersHeroProps)
       </div>
 
       {/* Content */}
-      <div className="relative z-10 container mx-auto px-4 py-24">
+      <div className="relative z-10 container mx-auto px-4 py-20 md:py-24">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -64,7 +64,7 @@ export default function ChartersHero({ filters, setFilters }: ChartersHeroProps)
           className="text-center"
         >
           {/* Main Title */}
-          <h1 className="text-6xl md:text-8xl font-bold text-white mb-12 drop-shadow-2xl leading-tight">
+          <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold text-white mb-12 drop-shadow-2xl leading-tight">
             Find your<br />charter
           </h1>
 
